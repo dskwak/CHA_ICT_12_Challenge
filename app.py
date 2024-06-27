@@ -4,29 +4,31 @@ from flask_cors import CORS
 from flask import jsonify
 from flask import request
 from datetime import datetime
-from dateutil.relativedelta import *
+from dateutil.relativedelta import relativedelta
+import json
 import jwt
 import sqlite3
 import random
-
+import os
 app = Flask(__name__)
 CORS(app)
-
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DBroute = os.path.join(BASE_DIR, 'member.db')
 SECRET_KEY = '24407'
 #ibxx vkyw cgwb vdaj
 app.config['MAIL_SERVER']='smtp.gmail.com'
 app.config['MAIL_PORT'] = 465
 app.config['MAIL_USERNAME'] = 'cha4help@gmail.com'
 app.config['MAIL_PASSWORD'] = 'ibxx vkyw cgwb vdaj'
-app.config['MAIL_USE_TLS'] = False  
-app.config['MAIL_USE_SSL'] = True  
+app.config['MAIL_USE_TLS'] = False
+app.config['MAIL_USE_SSL'] = True
 
 
 mail = Mail(app)
 
-DBroute = 'database/member.db'
 
 def parseJWT(jwtstr):
+    print(jwtstr)
     try:
         payload =     jwt.decode(jwtstr, SECRET_KEY, algorithms=['HS256'])
         return {
@@ -57,12 +59,12 @@ def registMember():
                 if(parseJWT(register)["role"] == "admin"):
                     c.execute('insert into member (username, password, email, role) values (?,?,?,?)',(username,password,email, role))
                     conn.commit()
-                    c.execute('select * from member where username=?', (username, ))            
+                    c.execute('select * from member where username=?', (username, ))
                     userID = c.fetchone()[0]
                     print(userID)
                     c.execute('insert into user_suspension (USERID, STARTDATE, ENDDATE, STOPCOUNT) values (?, 10000000, 10000000, 0)', (userID, ))
                     conn.commit()
-                    
+
                     c.close()
                     conn.close()
                     payload = {
@@ -75,7 +77,7 @@ def registMember():
                         access_token = jwt.encode(payload, SECRET_KEY, algorithm="HS256")
                     )
                 else:
-                    
+
                     c.close()
                     conn.close()
                     return jsonify(
@@ -84,7 +86,7 @@ def registMember():
                     )
             else:
                 c.close()
-                conn.close()       
+                conn.close()
                 return jsonify(
                     result = "error",
                     ErrType = "InValidToken"
@@ -92,7 +94,7 @@ def registMember():
         else:
             c.execute('insert into member (username, password, email, role) values (?,?,?,?)',(username,password,email,role))
             conn.commit()
-            c.execute('select * from member where username=?', (username, ))            
+            c.execute('select * from member where username=?', (username, ))
             userID = c.fetchone()[0]
             c.execute('insert into user_suspension (USERID, STARTDATE, ENDDATE, STOPCOUNT) values (?, 10000000, 10000000, 0)', (userID,))
             conn.commit()
@@ -113,35 +115,39 @@ def registMember():
         result="error",
         ErrType = "UserAlreadyExists"
     )
-
-@app.route('/login', methods=['POST'])
+@app.route('/login', methods=['GET'])
 def login():
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
 
-    username = request.form.get('username')
-    password = request.form.get('password')
-    usertype = request.form.get('type', default="")
-    userTypeStr  = f"%{usertype}%"
-    print(username, password, userTypeStr)
-    c.execute('select * from member where username=? and password=? AND role LIKE ?',(username, password, userTypeStr))
+    username = request.args.get('username')
+    password = request.args.get('password')
+
+    # Debugging 출력
+    print(username, password)
+
+    # username과 password만으로 인증
+    c.execute('SELECT * FROM member WHERE username=? AND password=?', (username, password))
     result = c.fetchone()
     c.close()
     conn.close()
-    if(result):
+
+    if result:
         payload = {
-            'id' : username,
-            'role' : result[4],
-            'exp' : datetime.today() + relativedelta(years=1000)
+            'id': username,
+            'role': result[4],
+            'exp': datetime.today() + relativedelta(years=1000)
         }
         return jsonify(
-            result = "success",
-            access_token = jwt.encode(payload, SECRET_KEY, algorithm="HS256")
+            result="success",
+            access_token=jwt.encode(payload, SECRET_KEY, algorithm="HS256")
         )
+
     return jsonify(
-            result = "error",
-            ErrType = "UserNotFound"
-        )
+        result="error",
+        ErrType="UserNotFound"
+    )
+
 '''
 @app.route('/addDummyData')
 def createDummy():
@@ -150,13 +156,13 @@ def createDummy():
 
     for i in range(50):
         c.execute('insert into board (title, writer, likes, content, writeDate, resources, type, views, report) values (?, ?, ?, ?, ?, ?, ?, 0, 0)', ('제목' + str(i), '작성자' + str(i), 0, '내용'*i, datetime.today().strftime("%Y%m%d"), '', 'normal' ))
-    
+
     for i in range(50):
         c.execute('insert into board (title, writer, likes, content, writeDate, resources, type, views, report) values (?, ?, ?, ?, ?, ?, ?, 0, 0)', ('제목' + str(i+50), '작성자' + str(i+50), 0, '내용'*i, datetime.today().strftime("%Y%m%d"), '', 'notification' ))
     conn.commit()
     c.close()
     conn.close()
-    return 
+    return
 '''
 
 '''
@@ -174,7 +180,7 @@ def createDummyComment():
 '''
 @app.route('/showBoard', methods=['POST'])
 def showBoard():
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
 
     page = request.form.get('page')
@@ -185,17 +191,17 @@ def showBoard():
     c.execute('select * from board where type=? and title LIKE ?', (BoardType,Search))
     result = c.fetchall()
     result = result[::-1]
-    try:    
+    try:
         page = int(page)
         return jsonify(result[(page-1)*10: page*10 + 1]
         )
     except:
         return jsonify(c.fetchall())
-    
 
-@app.route('/getPageSize', methods=['POST'])    
+
+@app.route('/getPageSize', methods=['POST'])
 def getPageSize():
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
 
     BoardType = request.form.get('type')
@@ -213,128 +219,292 @@ def getPageSize():
     return jsonify(
         pageSize = result2
     )
+@app.route('/addWebPost', methods=['POST'])
+def addWebPost():
+    try:
+        params = request.form
+
+        Token = params.get('token')
+        Title = params.get('title', '')
+        Content = params.get('content', '')
+        boardType = params.get('boardType')
+        isAnonymous = params.get('isAnonymous')
+        resources = params.get('resources', '[]')
+        voteOpts = request.form.getlist('options[]')
+
+        print(f"Received data: Title={Title}, Content={Content}, boardType={boardType}, isAnonymous={isAnonymous}, resources={resources}, voteOpts={voteOpts}")
+
+        if not Title:
+            return jsonify(result='error', message='Title is required')
+
+        conn = sqlite3.connect(DBroute, check_same_thread=False)
+        c = conn.cursor()
+
+        payload = parseJWT(Token)
+        print(f"Parsed JWT: {payload}")
+
+        if payload['result'] != 'success':
+            return jsonify(result='error', message='Invalid Token')
+
+        c.execute('select * from member where username=?', (payload['username'], ))
+        user = c.fetchone()
+
+        if not user:
+            return jsonify(result='error', message='User not found')
+
+        userID = user[0]
+
+        c.execute("select * from user_suspension where userid=? AND ? < ENDDATE", (userID, (datetime.today().strftime('%Y%m%d'))))
+        isBan = c.fetchone()
+
+        if isBan:
+            return jsonify(result='error', message='User is suspended')
+
+        if boardType not in ['normal', 'vote', 'notification', 'volunteer']:
+            if payload['role'] != 'admin':
+                return jsonify(result='error', message='Access Denied')
+
+        if boardType == 'vote' and not voteOpts:
+            return jsonify(result='error', message='Vote options required')
+
+        writer = '익명' if isAnonymous == '익명' else payload['username']
+
+        writeDate = datetime.today().strftime("%Y%m%d")
+
+        # Convert resources to JSON string
+        resources_str = json.dumps(resources)
+
+        c.execute('insert into board (title, content, Type, writer, resources, likes, writeDate, views, report) values (?,?,?,?,?, 0, ?, 0, 0)',
+                  (Title, Content, boardType, writer, resources_str, writeDate))
+
+        c.execute('select boardID from board where title = ? AND writer = ?', (Title, writer))
+        boardID2 = c.fetchone()[0]
+
+        if boardType == 'vote':
+            c.execute('insert into voteID (boardID) values (?)', (boardID2,))
+            c.execute('select VOTEID from voteID where BoardID = ?', (boardID2, ))
+            voteID = c.fetchone()[0]
+
+            voteOptsList = [opt.strip() for opt in voteOpts if opt.strip()]
+            for voteName in voteOptsList:
+                c.execute('insert into VOTEOPTS (voteid, name, count) values (?, ?, 0)', (voteID, voteName))
+
+        c.close()
+        conn.commit()
+        conn.close()
+        return jsonify(result="success")
+    except Exception as e:
+        print(f"Error: {e}")
+        return jsonify(result='error', message=str(e))
 
 @app.route('/addPost', methods=['POST'])
 def addPost():
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
-    c = conn.cursor()
+    try:
+        params = request.get_json()
 
-    Token = request.form.get('token')
+        Token = params.get('token')
+        Title = params.get('title', '')
+        Content = params.get('content', '')
+        boardType = params.get('boardType')
+        isAnonymous = params.get('isAnonymous')
+        resources = params.get('resources', [])
+        voteOpts = params.get('options', [])
 
-    Title = request.form.get('title')
-    Content = request.form.get('content')
-    boardType = request.form.get('boardType')
-    isAnonymous = request.form.get('isAnonymous')
-    resources = request.form.get('resources')
-    writer = ''
+        print(f"Received data: Title={Title}, Content={Content}, boardType={boardType}, isAnonymous={isAnonymous}, resources={resources}, voteOpts={voteOpts}")
 
-    payload = parseJWT(Token)
+        if not Title:
+            return jsonify(result='error', ErrType='TitleRequired')
 
-    c.execute('select * from member where username=?', (payload['username'], ))            
-    userID = c.fetchone()[0]
+        conn = sqlite3.connect(DBroute, check_same_thread=False)
+        c = conn.cursor()
 
-    c.execute("select * from user_suspension where userid=? AND ? < ENDDATE", (userID, (datetime.today().strftime('%Y%m%d'))))
-    
-    isBan = c.fetchone()
-    print(isBan)
-    if(not isBan):
-        if(boardType != 'vote' and boardType != 'normal'):
-            if(parseJWT(Token)['result'] == 'success'):
-                if(parseJWT(Token)['role'] != 'admin'):
-                    return jsonify(
-                        result = 'error',
-                        ErrType = 'Access Denied'
-                    )
-            else:
-                return jsonify(
-                    result = 'error',
-                    ErrType = 'Invalid Token'
-                )
+        payload = parseJWT(Token)
+        print(f"Parsed JWT: {payload}")
 
-        if(isAnonymous == '익명'):
-            writer = '익명'
-        else:
-            if(parseJWT(Token)["result"] == 'success'):
-                writer = parseJWT(Token)["username"]
-            else:
-                return jsonify(
-                    result = 'error',
-                    ErrType = 'Invalid Token'
-                )
+        if payload['result'] != 'success':
+            return jsonify(result='error', ErrType='Invalid Token')
 
-        print(Title, Content, boardType, isAnonymous, writer, resources)
-        c.execute('insert into board (title, content, Type, writer, resources, likes, writeDate, views, report) values (?,?,?,?,?, 0, ?, 0, 0)', (Title, Content, boardType, writer, resources, datetime.today().strftime("%Y%m%d")))
-        
-        
-        
+        c.execute('select * from member where username=?', (payload['username'], ))
+        user = c.fetchone()
+
+        if not user:
+            return jsonify(result='error', ErrType='UserNotFound')
+
+        userID = user[0]
+
+        c.execute("select * from user_suspension where userid=? AND ? < ENDDATE", (userID, (datetime.today().strftime('%Y%m%d'))))
+        isBan = c.fetchone()
+
+        if isBan:
+            return jsonify(result='error', ErrType='UserSuspended')
+
+        if boardType not in ['normal', 'vote', 'notification', 'volunteer']:
+            if payload['role'] != 'admin':
+                return jsonify(result='error', ErrType='Access Denied')
+
+        if boardType == 'vote' and not voteOpts:
+            return jsonify(result='error', ErrType='VoteOptionsRequired')
+
+        writer = '익명' if isAnonymous == '익명' else payload['username']
+
+        writeDate = datetime.today().strftime("%Y%m%d")
+
+        # Convert resources to JSON string
+        resources_str = json.dumps(resources)
+
+        c.execute('insert into board (title, content, Type, writer, resources, likes, writeDate, views, report) values (?,?,?,?,?, 0, ?, 0, 0)',
+                  (Title, Content, boardType, writer, resources_str, writeDate))
+
+        c.execute('select boardID from board where title = ? AND writer = ?', (Title, writer))
+        boardID2 = c.fetchone()[0]
+
+        if boardType == 'vote':
+            c.execute('insert into voteID (boardID) values (?)', (boardID2,))
+            c.execute('select VOTEID from voteID where BoardID = ?', (boardID2, ))
+            voteID = c.fetchone()[0]
+
+            voteOptsList = [opt.strip() for opt in voteOpts if opt.strip()]
+            for voteName in voteOptsList:
+                c.execute('insert into VOTEOPTS (voteid, name, count) values (?, ?, 0)', (voteID, voteName))
+
         c.close()
         conn.commit()
         conn.close()
-        return jsonify(
-            result = "success"
-        )
-    else:
-        c.close()
-        conn.commit()
-        conn.close()
-        return jsonify(
-            result = "error"
-        )
+        return jsonify(result="success")
+    except Exception as e:
+        print(f"Error: {e}")
+        return jsonify(result='error', message=str(e))
+
 
 @app.route('/changeLike', methods=['POST'])
 def changeLike():
+    try:
+        BoardID = request.form.get('boardID')
+        Who = request.form.get('token')
 
-    BoardID = request.form.get('boardID')
-    Who = request.form.get('token')
+        username = parseJWT(Who)['username']
 
-    username = parseJWT(Who)['username']
+        conn = sqlite3.connect(DBroute, check_same_thread=False)
+        c = conn.cursor()
+        result = ''
 
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
-    c = conn.cursor()
-    result = ''
-    c.execute('select * from LIKES where BOARDID = ? and USERNAME = ?', (BoardID, username))
-    result = c.fetchall()
-    if(len(result) == 0):
-        c.execute('insert into LIKES (BOARDID, USERNAME) values (?, ?)', (BoardID, username))
-        c.fetchall()
-        c.execute('select likes from board where BOARDID= ?',(BoardID,))
-        LikeCount = c.fetchone()
-        print(LikeCount, 'like 늘어남')
-        c.execute('update board set likes=? where BOARDID =?', (LikeCount[0]+1, BoardID))
-    else:
-        c.execute('delete from LIKES where BOARDID = ? and USERNAME = ?', (BoardID, username))
-        c.fetchall()
-        c.execute('select likes from board where BOARDID= ?',(BoardID,))
-        LikeCount = c.fetchone()
-        print(LikeCount, 'like 줄어듬')
-        c.execute('update board set likes=? where BOARDID =?', (LikeCount[0]-1, BoardID))
-    c.close()
-    conn.commit()
-    conn.close()
-    return ''
+        c.execute('select * from LIKES where BOARDID = ? and USERNAME = ?', (BoardID, username))
+        result = c.fetchone()
+        if result is None:
+            c.execute('insert into LIKES (BOARDID, USERNAME) values (?, ?)', (BoardID, username))
+            c.execute('select likes from board where BOARDID= ?', (BoardID,))
+            LikeCount = c.fetchone()[0]
+            newLikeCount = LikeCount + 1
+            c.execute('update board set likes=? where BOARDID =?', (newLikeCount, BoardID))
+            conn.commit()
+            response = jsonify(result='liked', likes=newLikeCount)
+        else:
+            c.execute('delete from LIKES where BOARDID = ? and USERNAME = ?', (BoardID, username))
+            c.execute('select likes from board where BOARDID= ?', (BoardID,))
+            LikeCount = c.fetchone()[0]
+            newLikeCount = LikeCount - 1
+            c.execute('update board set likes=? where BOARDID =?', (newLikeCount, BoardID))
+            conn.commit()
+            response = jsonify(result='unliked', likes=newLikeCount)
 
+        c.close()
+        conn.close()
+        return response
+    except Exception as e:
+        return jsonify(result='error', message=str(e)), 500
 @app.route("/getOnePost", methods=['POST'])
 def getOnePost():
     BoardID = request.form.get('boardID')
 
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
     c.execute('select * from board where boardID=?',(BoardID,))
     return jsonify(c.fetchOne())
 
-@app.route('/addViews', methods=['POST'])
+@app.route('/addViews', methods=['POST'])  # POST 메소드로 설정
 def addViews():
     BoardID = request.form.get('boardID')
+    if not BoardID:
+        return 'No boardID provided', 400
 
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
-    c.execute('select views from board where boardID = ?',(BoardID,))
+    c.execute('SELECT views FROM board WHERE boardID = ?', (BoardID,))
     tempCount = c.fetchone()
-    c.execute('update board set views = ?', (tempCount[0] + 1,))
+    if tempCount:
+        new_view_count = tempCount[0] + 1
+        c.execute('UPDATE board SET views = ? WHERE boardID = ?', (new_view_count, BoardID))
     c.close()
     conn.commit()
     conn.close()
+    return '', 204  # No content 응답
+
+
+@app.route('/getVoteData', methods=['POST'])
+def getVote():
+    try:
+        boardID = request.form.get('boardID')
+        token = request.form.get('token')
+
+        username = parseJWT(token)['username']
+
+        conn = sqlite3.connect(DBroute, check_same_thread=False)
+        c = conn.cursor()
+
+        print(f"Fetching vote data for boardID: {boardID}, username: {username}")
+
+        c.execute('select voteID from voteID where boardID = ?', (boardID, ))
+        voteID = c.fetchone()
+        if voteID is None:
+            raise Exception(f"No voteID found for boardID: {boardID}")
+
+        voteID = voteID[0]
+        c.execute('select * from voteOpts where VOTEID = ?', (voteID, ))
+        data = c.fetchall()
+        print(f"Vote options: {data}")
+
+        c.execute('select username, voteoptsid from voterList where VOTEID = ? AND USERNAME = ?', (voteID, username))
+        voter = c.fetchone()
+        voteNum = 0
+
+        if voter:
+            voteNum = voter[1]
+
+        print(f"Voter: {voter}")
+        return jsonify(
+            voteData=data,
+            whereVote=voteNum
+        )
+    except Exception as e:
+        print(f"Error in getVoteData: {e}")
+        return jsonify(result='error', message=str(e)), 500
+
+
+@app.route("/vote", methods=['POST'])
+def vote():
+    voteID = request.form.get('voteID')
+    token = request.form.get('token')
+
+    USERNAME = parseJWT(token)['username']
+
+    VOTEOPTSID = request.form.get('voteOptsID')
+
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
+    c = conn.cursor()
+
+    c.execute('insert into voterList (voteID, username, voteoptsid) values (?, ?, ?)', (voteID, USERNAME, VOTEOPTSID))
+    c.execute('select count from voteOpts where VOTEOPTSID = ?', (VOTEOPTSID, ))
+    count = c.fetchone()[0]
+
+    c.execute('update voteOpts set count = ? where VoteOptsID = ?', (count +1, VOTEOPTSID))
+
+    c.close()
+    conn.commit()
+    conn.close()
+
     return ''
+
+
 
 @app.route('/addReport', methods=['POSt'])
 def addReport():
@@ -345,7 +515,7 @@ def addReport():
     if(parseJWT(token)['result'] == 'success'):
         username = parseJWT(token)['username']
 
-        conn = sqlite3.connect('database/member.db', check_same_thread=False)
+        conn = sqlite3.connect(DBroute, check_same_thread=False)
         c = conn.cursor()
 
         c.execute('select * from reports where BoardID = ? AND username = ?', (BoardID, username))
@@ -362,7 +532,7 @@ def addReport():
 
             c.execute('update board set report = ? WHERE BOARDID = ?', (nowReports + 1, BoardID))
 
-        
+
         c.close()
         conn.commit()
         conn.close()
@@ -375,42 +545,63 @@ def addReport():
         return jsonify(
             result = 'error'
         )
-
-
 @app.route('/getComment', methods=['POST'])
 def getComment():
     BoardID = request.form.get('boardID')
 
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
 
-    c.execute('select * from comments where boardID=?',(BoardID,))
-    return jsonify(c.fetchall()[::-1])
+    c.execute('SELECT * FROM comments WHERE boardID=?', (BoardID,))
+    comments = c.fetchall()
+    if not comments:
+        return jsonify(result='error', message="No comments found"), 404
+
+    comments_list = []
+    for comment in comments:
+        print(f"CommentData - {comment[0]} {comment[3]} {comment[1]} {comment[2]} {comment[4]}")
+        comment_dict = {
+            "comment_id": comment[0],
+            "board_id": comment[3],
+            "writer": comment[1],
+            "content": comment[2],
+            "write_date": comment[4]
+        }
+        comments_list.append(comment_dict)
+
+    return jsonify(result='success', comments=comments_list[::-1])
 
 
 @app.route('/addComment', methods=['POST'])
 def addComment():
 
-    token = request.form.get('token')
+    params = request.get_json()
 
-    boardID = request.form.get('boardID')
-    Writer = request.form.get('Writer')
-    Content = request.form.get('Content')
+    token = params['token']
 
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    print(token)
+
+    boardID = params['boardID']
+    Writer = params['Writer']
+    Content = params['Content']
+
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
 
     username = ''
 
+    print("addComment Data : ", token, boardID, Writer, Content);
+
     if(parseJWT(token)['result'] == 'success'):
          username = parseJWT(token)['username']
     else:
+        print("parsing error")
         return jsonify(
-            result = "error"
-        )
+            result= "error")
 
     c.execute('select * from member where username = ?', (username,))
     userID = c.fetchone()[0]
+
 
     c.execute('select * from user_suspension where userID = ? AND ?  < ENDDATE', (userID, int(datetime.today().strftime('%Y%m%d'))))
     if(not c.fetchone()):
@@ -422,9 +613,12 @@ def addComment():
             result = 'success'
         )
 
+    print("suspension error")
     return jsonify(
         result = 'error'
     )
+
+
 
 
 @app.route('/sendMail', methods=['POST'])
@@ -439,7 +633,7 @@ def sendMail():
 
     mail.send(msg)
 
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
     c.execute('insert into passCode (email, code) values (?, ?)', (email, code))
     c.close()
@@ -455,7 +649,7 @@ def checkCode():
 
     print(email, code)
 
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
 
     c.execute('select * from passCode where email = ? AND code = ?', (email, code))
@@ -511,13 +705,13 @@ def control_board():
 
     keyword = f'%{search}%'
 
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
 
     if(order_by == 'views'):
         c.execute("select * from board where title LIKE ? order by views DESC", (keyword, ))
     elif(order_by == 'laest'):
-        c.execute("select * from board where title LIKE ? order by BOARDID DESC", (keyword, ))    
+        c.execute("select * from board where title LIKE ? order by BOARDID DESC", (keyword, ))
     elif(order_by == 'report'):
         c.execute("select * from board where title LIKE ? order by report DESC", (keyword, ))
 
@@ -529,31 +723,38 @@ def control_board():
     conn.close()
 
     return render_template('control_board.html', board_data=result, keyword=keyword, orderBy = order_by)
-
 @app.route('/login_admin')
 def login_admin():
-    return render_template('login.html')
+    return render_template('login_web.html')
+@app.route('/login_web', methods=['GET'])
+def login_web():
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
+    c = conn.cursor()
 
-@app.route('/deleteBoard', methods={"POST"})
-def deleteBoard():
-
-    try:
-        conn = sqlite3.connect('database/member.db')
-        c = conn.cursor()
-
-        BoardID =request.form.get('BoardID')
-        print(BoardID)
-
-        c.execute('delete from board where BoardID= ?', (BoardID,))
-
-        c.close()
-        conn.commit()
-        conn.close()
+    username = request.args.get('username')
+    password = request.args.get('password')
+    usertype = request.args.get('type', "")
+    userTypeStr = f"%{usertype}%"
+    print(username, password, userTypeStr)
+    c.execute('select * from member where username=? and password=? AND role LIKE ?',
+              (username, password, userTypeStr))
+    result = c.fetchone()
+    c.close()
+    conn.close()
+    if result:
+        payload = {
+            'id': username,
+            'role': result[4],
+            'exp': datetime.today() + relativedelta(years=1000)
+        }
         return jsonify(
-            result = True)
-    except:
-        return jsonify(
-            result = False   )
+            result="success",
+            access_token=jwt.encode(payload, SECRET_KEY, algorithm="HS256")
+        )
+    return jsonify(
+        result="error",
+        ErrType="UserNotFound"
+    )
 
 @app.route('/addUser')
 def addUser():
@@ -565,7 +766,7 @@ def control_user():
     search = request.args.get('keyword')
     keyword = f'%{search}%'
 
-    conn = sqlite3.connect('database/member.db')
+    conn = sqlite3.connect(DBroute)
     c  = conn.cursor()
     user_data = c.execute('select member.id, member.username, member.email, user_suspension.startdate, user_suspension.enddate, user_suspension.StopCount from member LEFT JOIN user_suspension ON member.id = user_suspension.USERID where member.username LIKE ?', (keyword, )).fetchall()
 
@@ -576,7 +777,7 @@ def ban_user():
     userID = request.form.get('userID')
     days = request.form.get('days')
 
-    conn = sqlite3.connect('database/member.db', check_same_thread=False)
+    conn = sqlite3.connect(DBroute, check_same_thread=False)
     c = conn.cursor()
 
     STARTDATE = int(datetime.today().strftime("%Y%m%d"))
