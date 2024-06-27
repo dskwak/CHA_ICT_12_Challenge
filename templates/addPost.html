@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script  src="http://code.jquery.com/jquery-latest.min.js"></script>
+<style>
+    h1{
+        position : relative;
+        left : 50%;
+        transform: translate(-50%);
+        width : fit-content;
+    }
+
+    #container{
+        width : 40%;
+        height : 90vh;
+        position : relative;
+        left : 30%;
+    }
+
+    #title{
+        position : relative;
+        left : 50%;
+        transform: translate(-50%);
+        width : 50%;
+        height : 40px;
+        top : 5px;
+    }
+
+    #top{
+        
+        border-radius: 100px;
+        border : solid 1px black;
+        height : 60px;
+    }
+
+    select{
+        width : 100px;
+        height : 30px;
+        position : relative;
+        top : 6px;
+        left : 28%;
+    }
+
+    textarea{
+        resize: none;
+        position : relative;
+        top : 10px;
+        width : 98%;
+        height : 78%;
+        left : 4px;
+    }
+
+    #upload{
+        width : 300px;
+        height : 50px;
+        left : 50%;
+        position: relative;
+        top : 20px;
+        transform: translate(-50%);
+        border-radius: 20px;
+        border : solid 1px black;
+        background-color : black;
+        color : white;
+    }
+
+</style>
+<body>
+        <h1>공지글 추가하기</h1>
+        <div id="container">
+            <div id="top">
+                <input id="title" placeholder="제목">
+                <select>
+                    <option id="notification">공지글</option>
+                    <option id="volunteer">봉사모집글</option>
+                </select>
+            </div>
+            <textarea  placeholder="내용을 입력하세요">
+                
+            </textarea>
+            <button id="upload">업로드</button>
+        </div>
+</body>
+<script>
+    $(function(){
+        $('#upload').click(function(){
+            title = $("#title").val()
+            content = $("textarea").val()
+            type = $('option:selected').attr('id')
+            token = localStorage.getItem('token')
+            
+            console.log(title, content, type, token)
+
+            formdata = new FormData()
+            
+            formdata.append('token', token)
+            formdata.append('title', title)
+            formdata.append('content', content)
+            formdata.append('boardType', type)
+            formdata.append('isAnonymous', '')
+            formdata.append('resources', '')
+
+            fetch('/addPost', {
+                method : 'POST',
+                body: formdata
+            }).then((response) => {
+                return response.json()
+            }).then((result) => {
+                if(result['result'] == 'success'){
+                    alert('글이 추가되었습니다')
+                    location.href='/'
+                }
+            })
+        })
+    })
+</script>
+</html>

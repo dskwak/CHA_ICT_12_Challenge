@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<script  src="http://code.jquery.com/jquery-latest.min.js"></script>
+<style>
+    #main{
+        position : absolute;
+        top : 50%;
+        left : 50%;
+        transform: translate(-50%, -70%);
+        display : flex;
+        width : 500px;
+        flex-wrap: wrap;
+    }
+
+    h1{
+        text-align: center;
+        justify-content: center;
+        width : 100%;
+
+    }
+    #id_wrap{
+        width : 100%;
+    }
+
+    #id_wrap>div{
+        width : fit-content;
+        position : relative;
+        left : 25%;
+    }
+
+    #id_wrap>input{
+        width : fit-content;
+        position: relative;
+        top : -50%;
+        left: 35%
+    }
+
+    #pw_wrap{
+        width : 100%;
+    }
+
+    #pw_wrap>div{
+        width : fit-content;
+        position: relative;
+        left: 25%;
+    }
+
+    #pw_wrap>input{
+        width : fit-content;
+        position: relative;
+        top : -50%;
+        left : 35%;
+    }
+
+    #email_wrap{
+        width : 100%
+    }
+
+    #email_wrap>div{
+        width : fit-content;
+        position: relative;
+        left : 25%;
+    }
+
+    #email_wrap>input{
+        width: fit-content;
+        position: relative;
+        top: -50%;
+        left : 35%
+    }
+
+    select{
+        position: relative;
+        left: 25%;
+    }
+
+    button{
+        position :relative;
+        width : 125px;
+        height : 40px;
+        left : 40%;
+        border-radius: 10%;
+        background-color: black;
+        color : white;
+        transform: translate(-50%);
+    }
+
+
+
+    #error{
+        position: relative;
+        color : red;
+        width : fit-content;
+        left : 28%;
+        height : 30px;
+    }
+
+</style>
+<body>
+    <div id="main">
+        <h1>사용자 추가</h1>
+        <div id="error"></div>
+        <div id="id_wrap"><div>ID : </div><input id="id"></div>
+        <div id="pw_wrap"><div>PW : </div><input id="pw"></div>
+        <div id="email_wrap"><div>EMAIL : </div><input id="email"></div>
+        <select>
+            <option id="admin">관리자</option>
+            <option id="member">일반 유저</option>
+        </select>
+        <button>유저 추가</button>
+    </div>
+</body>
+<!--<script src="{{url_for('static', filename='login.js')}}" ></script>-->
+<script>
+    $(function(){
+    $('button').click(function(){
+        
+        id_value = $("#id").val();
+        pw_value = $('#pw').val();
+        email_value = $('#email').val();
+        role_value = $('option:selected').attr('id');
+
+        formdata = new FormData()
+        formdata.append('username', id_value)
+        formdata.append('password', pw_value)
+        formdata.append('email', email_value)
+        formdata.append('role', role_value)
+        formdata.append('register', localStorage.getItem('token'))
+
+        fetch('/add', {
+            method : "POST",
+            body : formdata,
+        }).then((response) => {
+            return response.json()
+        }).then((result) => {
+            if(result['result'] == 'success'){
+                alert("유저 추가에 성공했습니다")
+            }else{
+                alert('유저 추가에 문자가 생겼습니다', result['ErrType'])
+                $("#error").html(`Error : ${result['ErrType']}`)
+            }
+        })
+    })
+})
+</script>
+</html>

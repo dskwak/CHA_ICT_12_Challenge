@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CHA | 유저 관리</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+      }
+
+      h1 {
+        margin: 20px 0;
+      }
+
+      .container {
+        width: 80%;
+        max-width: 1000px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        margin: 20px 0;
+      }
+
+      .search-container {
+        margin-bottom: 10px;
+      }
+
+      .search-container input[type='text'] {
+        width: 87%;
+        padding: 5px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+      }
+
+      #search{
+        background-color: black;
+        color: white;
+        width: 10%;
+        border-radius: 10px;
+        height: 30px;
+        position: relative;
+        left: 1%;
+      }
+
+      .user-list {
+        width: 100%;
+        border-top: 1px solid #ddd;
+      }
+
+      .user-list{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px 0;
+        border-bottom: 1px solid #ddd;
+      }
+
+      .user{
+        width : 100%;
+        height : 75px;
+        border-top : solid 1px black;
+        display : flex;
+        align-items: center;
+      }
+
+      .ban-button{
+       position : relative;
+       left : 60%;
+       border : none;
+       background-color: transparent;
+       color : red; 
+       font-weight: bold;
+      }
+
+      select{
+        position: relative;
+        left: 59%;
+      }
+
+    </style>
+  </head>
+  <body>
+    <h1>CHA | 유저 관리</h1>
+    <div class="container">
+      <div class="search-container">
+        <input id="keyword" type="text" placeholder="검색" />
+        <button id="search">검색</button>
+      </div>
+      <div class="user-list">
+        <div class="user">
+          <div class="user-details">아이디 | 이름 | 이메일 | 현 상태</div>
+        </div>
+          {% for user in userData %}
+            <div class="user">
+              <div class="user-details">
+                {{user[0]}} | {{ user[1] }} | {{ user[2] }} |<br>
+                <div class="last">마지막 제재 : <span>{{ user[3] }} ~ {{ user[4] }}</span></div>
+                <div class="count">제재 횟수 : {{ user[5] }}</div> 
+              </div>
+              <select>
+                <option id="1">1일</option>
+                <option id="3">3일</option>
+                <option id="7">7일</option>
+                <option id="31">1달</option>
+                <option id="99">영구정지</option>
+              </select>
+              <button class="ban-button" id="{{ user[0] }}">제재</button>
+            </div>
+          {% endfor %}
+        </div>
+    </div>
+  </body>
+  <script  src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script>
+    $(function(){
+        $("#search").click(function(){
+          keyword = $('#keyword').val()
+          location.href = `/control_user?keyword=${keyword}`
+        })
+
+        $(".ban-button").click(function(){
+          userID = $(this).attr('id')
+          days = $('option:selected').attr('id')
+          console.log(days)
+          formdata = new FormData()
+
+          formdata.append('userID', userID)
+          formdata.append('days', days)
+
+          fetch('/ban_user', {
+            method : 'POST',
+            body : formdata
+          }).then((response) => {
+            return response.json()
+          }).then((result) => {
+            if(result['result'] == 'success'){
+              location.reload()
+            }
+          })
+        })
+    })
+  </script>
+</html>

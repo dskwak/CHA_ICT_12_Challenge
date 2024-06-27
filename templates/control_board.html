@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CHA | 게시글 관리</title>
+    <script  src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            margin: 20px 0;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 1000px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        .search-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .search-container input[type="text"] {
+            width: 300px;
+            padding: 5px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 10px;
+        }
+
+        .filter-buttons button {
+            padding: 5px 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .post-list {
+            width: 100%;
+            border-top: 1px solid #ddd;
+        }
+
+        .post-list .post {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .post-list .post:last-child {
+            border-bottom: none;
+        }
+
+        .post-list .post .post-details {
+            flex-grow: 1;
+        }
+
+        .post-list .post .delete-button {
+            padding: 5px 10px;
+            border: none;
+            background-color: #f44;
+            color: #fff;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>CHA | 게시글 관리</h1>
+    <input type="hidden" id="keyword" value="{{keyword}}">
+    <input type="hidden" id="orderBy" value="{{orderBy}}">
+    <div class="container">
+        <div class="search-container">
+            <div class="filter-buttons">
+                <button>정렬 방식</button>
+                <select>
+                    <option id="report">신고순</option>
+                    <option id="laest">최신순</option>
+                    <option id="views">조회수 순</option>
+                </select>
+            </div>
+            <div>
+                <input type="text" placeholder="검색" id='searchInput'>
+                <button id="search">검색</button>
+            </div>
+        </div>
+        <div class="post-list">
+            <div class="post">
+                <div class="post-details">
+                    제목 | 작성자 | 작성 날짜 | 신고 수: n
+                </div>
+            </div>
+                {% for postData in board_data %}
+                <div class="post">
+                    {{ postData[1] }} | {{ postData[2] }} | {{ postData[5]}} | {{postData[8] }} | 신고 수 : {{ postData[9] }} 
+                    <button class="delete-button" id="{{ postData[0] }}">삭제</button>
+               </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    $(function(){
+
+        Keyword = $('#keyword').val()
+        OrderBy = $('#orderBy').val()
+
+        $('.delete-button').click(function(){
+            boardID = $(this).attr('id')
+            if(confirm("삭제하시겠습니까?")){
+                formdata = new FormData()
+                formdata.append('BoardID', boardID)
+                fetch('/deleteBoard', {
+                    method : 'POST',
+                    body : formdata
+                }).then((response) => {
+                    console.log(response)
+                    return response.json()
+                }).then((result) => {
+                    if(result['result'] == 'success'){
+                        alert("삭제되었습니다.")
+                        location.reload()
+                    }
+                })
+            }
+        })
+
+        $('#search').click(function(){
+            Keyword = $("#searchInput").val()
+            location.href = `/control_board?orderBy=${OrderBy}&keyword=${Keyword}`
+        })
+
+        $('option').click(function(){
+            OrderBy = $(this).attr('id')
+            location.href = `/control_board?orderBy${OrderBy}&keyword=${Keyword}`
+        })
+
+    })
+</script>
+</html>

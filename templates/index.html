@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UI Example</title>
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+      }
+
+      h1 {
+        margin: 20px 0;
+      }
+
+      .container {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+      }
+
+      .box {
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        width: 150px;
+        text-align: center;
+        cursor: pointer;
+        transition: transform 0.2s;
+      }
+
+      .box:hover {
+        transform: translateY(-5px);
+      }
+
+      a{
+        color : black;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <script  src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script>
+        token = localStorage.getItem('token')
+        if(token != null){
+            formdata = new FormData()
+            formdata.append('token', token)
+          fetch('/checkToken',{
+            method : 'POST',
+            body : formdata
+          }).then((response) => {
+            return response.json()
+          }).then((result) => {
+            if(!result['result']){
+              window.location.href = '/login_admin'
+            }
+          })    
+        }else{
+          window.location.href = '/login_admin'
+        }
+  </script>
+  <body>
+    <h1>CHA</h1>
+    <div class="container">
+      <a href="/control_board?orderBy=report&keyword="><div class="box">게시글 관리</div></a>
+      <a href="/control_user?keyword="><div class="box">유저 관리</div></a>
+      <a href="/add_post"><div class="box">공지/봉사모집 추가</div></a>
+      <a href="/addUser?keyword="><div class="box">관리자 권한</div></a>
+    </div>
+  </body>
+</html>

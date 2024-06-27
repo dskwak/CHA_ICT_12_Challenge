@@ -1,0 +1,2784 @@
+[
+
+    {
+      "name": "김영한",
+      "explain": "김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음",
+      "image": "https://cdn.inflearn.com/public/courses/332505/cover/c32e770b-b417-436d-afd0-e2285ac6e514/332505.png?w=420",
+      "link": "https://www.inflearn.com/course/김영한의-자바-입문?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "인프런",
+      "explain": "인프콘 2023 다시보기",
+      "image": "https://cdn.inflearn.com/public/courses/331834/cover/ebfa0577-b8e6-41b3-935d-84aa0e17c8da/331834-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/인프콘2023-다시보기?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "김영한",
+      "explain": "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술",
+      "image": "https://cdn.inflearn.com/public/courses/325630/cover/56f635a3-3a44-4096-a16b-453ea1696b1a/325630-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/스프링-입문-스프링부트?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "인프런",
+      "explain": "[인프런] PM/PO 밋업 (with 김민우)",
+      "image": "https://cdn.inflearn.com/public/courses/333932/cover/dae6c081-cc55-4cf0-a519-a562654b2c55/333932.png?w=420",
+      "link": "https://www.inflearn.com/course/pm-po-밋업?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "얌얌코딩",
+      "explain": "Directx11을 이용한 게임 엔진 만들기",
+      "image": "https://cdn.inflearn.com/public/courses/333808/cover/e5ff9722-1441-4eb4-b393-191249ae39d8/333808.png?w=420",
+      "link": "https://www.inflearn.com/course/directx11-게임엔진-만들기?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "드립커피+한모금더",
+      "explain": "게임 개발자를 위한 3D 그래픽스, 쉐이더, OpenGL (0B) - 공개 샘플 강의2",
+      "image": "https://cdn.inflearn.com/public/courses/333788/cover/a5ce84bb-3e23-48b6-ab5c-4ee1abdaa76b/333788.jpg?w=420",
+      "link": "https://www.inflearn.com/course/게임개발-graphics-shader-opengl-0b?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Inje Lee (소플)",
+      "explain": "처음 만난 리액트(React)",
+      "image": "https://cdn.inflearn.com/public/courses/328866/cover/174035a3-ca6b-48cd-b122-c88df540cb04/처음_만난_리액트_v2_cover_inflearn.png?w=420",
+      "link": "https://www.inflearn.com/course/처음-만난-리액트?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "인프런",
+      "explain": "실리콘밸리에서 인정받는 개발자의 특징 (w. 한기용)",
+      "image": "https://cdn.inflearn.com/public/courses/333969/cover/da1d796b-b04b-4b13-9fb7-87065b549672/333969.png?w=420",
+      "link": "https://www.inflearn.com/course/판교-퇴근길밋업-개발자커리어?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "부산대학교 소프트웨어융합교육원",
+      "explain": "데이터 리터러시의 이해",
+      "image": "https://cdn.inflearn.com/public/courses/333882/cover/bcda9c4c-fc8f-4048-a06e-7113b2f2189d/333882.jpg?w=420",
+      "link": "https://www.inflearn.com/course/데이터-리터러시-이해-오렌지3?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "인프런",
+      "explain": "조직 문화를 탐험하며 디자인하기 (w. 이상효)",
+      "image": "https://cdn.inflearn.com/public/courses/333720/cover/477e0a4f-9ab7-4000-878a-4d2fbb5eeff3/333720.png?w=420",
+      "link": "https://www.inflearn.com/course/조직-문화-디자인-이상효?attributionToken=ChM5NTMxMDQwMjI5MjgyMDUwODU5EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "인프런",
+      "explain": "[30만 수강생 기념] 1/31 김영한님 온라인 밋업 Live",
+      "image": "https://cdn.inflearn.com/public/courses/332034/cover/1fb7a785-732c-4f10-8f29-d5cbf3d105e1/332034.png?w=420",
+      "link": "https://www.inflearn.com/course/30만-김영한-라이브세션?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "더코딩클럽",
+      "explain": "웹개발 왕초보 탈출하기",
+      "image": "https://cdn.inflearn.com/public/courses/332420/cover/bf30d64b-6bea-4a49-a9ad-53fbc029788b/332420-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/웹개발-왕초보-탈출하기?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "아는 만큼 보이는 크롬 개발자 도구",
+      "image": "https://cdn.inflearn.com/public/courses/331168/cover/dcdd44f3-2082-42dd-8d93-a8ee27773b28/%5B%E1%84%8C%E1%85%A6%E1%84%8F%E1%85%A9%E1%84%87%E1%85%A2%5D+%E1%84%8B%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB+%E1%84%86%E1%85%A1%E1%86%AB%E1%84%8F%E1%85%B3%E1%86%B7+%E1%84%87%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%82%E1%85%B3%E1%86%AB+%E1%84%8F%E1%85%B3%E1%84%85%E1%85%A9%E1%86%B7+%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1+%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE.png?w=420",
+      "link": "https://www.inflearn.com/course/아는만큼-보이는-크롬개발자-도구?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "인프런",
+      "explain": "Kotlin & Spring 네트워킹 밋업 다시보기",
+      "image": "https://cdn.inflearn.com/public/courses/330251/cover/4070c15c-d7f0-487b-a773-08622aacc817/330251-eng.jpg?w=420",
+      "link": "https://www.inflearn.com/course/inflearn-wanted-meetup?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "인프런",
+      "explain": "인프콘 2022 다시보기",
+      "image": "https://cdn.inflearn.com/public/courses/329211/cover/ea485515-6665-4e5c-acd7-157c2b8b08f3/infcon-apply-main.png?w=420",
+      "link": "https://www.inflearn.com/course/infcon2022?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "30분 요약 강좌 시즌4 : 알잘딱깔센 GitHub",
+      "image": "https://cdn.inflearn.com/public/courses/328599/cover/5343f40c-7904-4344-a5c1-7f47f4c50cc5/썸네일_알잘딱깃허브.jpg?w=420",
+      "link": "https://www.inflearn.com/course/30분-시즌4-깃허브?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "30분 요약 강좌 시즌3 : 초급자를 위한 손에 잡히는 딥러닝!",
+      "image": "https://cdn.inflearn.com/public/courses/327104/cover/85cc2b0a-ee45-4efc-b4d7-cfd63f05e451/썸네일_딥러닝.png?w=420",
+      "link": "https://www.inflearn.com/course/30분-시즌3-초급-딥러닝?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "데이터리안",
+      "explain": "[백문이불여일타] 데이터 분석을 위한 SQL 실전편 (무료 미니 코스)",
+      "image": "https://cdn.inflearn.com/public/courses/326716/cover/e4917b63-2f4e-4607-953a-b1cdf8bb1a67/326716-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/데이터-분석-sql-실전?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "정보보안 패스파인더",
+      "image": "https://cdn.inflearn.com/public/courses/325338/cover/047e18f3-1194-41ca-8e5e-0623444a2cfe/정보보안-패스파인더_2.png?w=420",
+      "link": "https://www.inflearn.com/course/정보보안-패스파인더?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "Microcosm SW Fair - 경쟁없는, 나만의 시빅해킹",
+      "image": "https://cdn.inflearn.com/public/courses/325123/course_cover/7867a30d-49f9-4312-89f5-b0e883db8a4e/시빅해킹-썸넬.png?w=420",
+      "link": "https://www.inflearn.com/course/ict-시빅해킹-프로젝트?attributionToken=ChQxNjA4ODk4NDc1NTA1NTI1NTE4NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "더코딩클럽",
+      "explain": "IT입문자를 위한 전반적인 개념 정리",
+      "image": "https://cdn.inflearn.com/public/courses/332158/cover/2d55285a-d216-4455-b806-b576356ed2f7/332158-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/일반인-it-꼭알아야할-기초지식?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "정재남",
+      "explain": "모던 자바스크립트 딥다이브 스터디",
+      "image": "https://cdn.inflearn.com/public/courses/327974/cover/3b014384-8b3e-4f66-a4de-a94ffff11f58/Modern Javascript Deep Dive.png?w=420",
+      "link": "https://www.inflearn.com/course/모던-자바스크립트-딥다이브?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "컴알못이 보는 컴퓨터 하드웨어 기초상식",
+      "image": "https://cdn.inflearn.com/public/courses/327067/cover/141fa9cb-69ed-48ca-8de2-d205b0e09200/썸네일_하드웨어_fin.png?w=420",
+      "link": "https://www.inflearn.com/course/컴퓨터-하드웨어-기초상식?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "고박사",
+      "explain": "따라하면서 배우는 고박사의 유니티 기초",
+      "image": "https://cdn.inflearn.com/public/courses/325624/cover/409fd934-5943-4404-8144-88c19392ec0f/325624.png?w=420",
+      "link": "https://www.inflearn.com/course/고박사-유니티-기초?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "온라인 개학, 스마트 도구에 대한 모든 것",
+      "image": "https://cdn.inflearn.com/public/courses/325087/course_cover/07b4d9cc-5f87-4f05-a7b3-7bac667f8bfb/%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B0%95%EC%9D%98-%EB%AA%A8%EB%93%A0%EA%B2%83-%28%EC%88%98%EC%A0%95%29.png?w=420",
+      "link": "https://www.inflearn.com/course/온라인개학-동영상강의-제작?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "마젠타웨이브",
+      "explain": "따라하며 배우는 아임웹으로 홈페이지 만들기 [공유오피스편]",
+      "image": "https://cdn.inflearn.com/public/courses/333481/cover/806a9150-9c13-4a62-b97e-5de5dc65b273/333481.png?w=420",
+      "link": "https://www.inflearn.com/course/따라하며-배우는-아임웹?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "simple_coding",
+      "explain": "쉬운 용어로 배우는 Git & Github 첫걸음 - 협업까지 마스터하기",
+      "image": "https://cdn.inflearn.com/public/courses/333238/cover/7fed6e01-b3c1-46be-bd48-c721793cf82f/333238.png?w=420",
+      "link": "https://www.inflearn.com/course/쉬운용어로-배우는-git-github-첫걸음?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "지승현",
+      "explain": "대학원 안가고 딥러닝 공부할래요 - Basis for deep learning",
+      "image": "https://cdn.inflearn.com/public/courses/333004/cover/e81f7d37-8949-42f6-acae-45f110b32000/333004.png?w=420",
+      "link": "https://www.inflearn.com/course/대학원안가고-딥러닝-공부-기반지식편?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "YAL",
+      "explain": "언리얼 엔진 5 스파르타 클래스 - 실전편",
+      "image": "https://cdn.inflearn.com/public/courses/332658/cover/3341f266-1eb4-4946-8cbc-8da525e35b29/332658.png?w=420",
+      "link": "https://www.inflearn.com/course/언리얼-스파르타-실전?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "생활노션",
+      "explain": "노션으로 독서노트 만들기",
+      "image": "https://cdn.inflearn.com/public/courses/331709/cover/16db9286-1cef-48ac-9b7c-b2291c166e78/331709.png?w=420",
+      "link": "https://www.inflearn.com/course/노션-올인원-세컨드브레인?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU3MTg4OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "인프런",
+      "explain": "[인프런] 프로덕트 디자인 밋업 (with 강영화)",
+      "image": "https://cdn.inflearn.com/public/courses/332523/cover/2653d194-99a7-437d-96a3-cd787c875473/332523-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/인프런-프로덕트-디자인-밋업?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "멋진",
+      "explain": "엑셀로 맛보는 딥러닝",
+      "image": "https://cdn.inflearn.com/public/courses/332172/cover/6d8df7b9-f851-4029-af0f-c21cd84bbcc2/332172-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/엑셀로-맛보는-딥러닝?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "그랩",
+      "explain": "LLM Application 개발 경험 공유회",
+      "image": "https://cdn.inflearn.com/public/courses/332116/cover/3921e715-9fdb-4bf5-9544-686bf9370054/Screen Shot 2023-09-24 at 2.32.49 PM.png?w=420",
+      "link": "https://www.inflearn.com/course/llm-애플리케이션-개발경험-공유회?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "인프런",
+      "explain": "인프런 퇴근길 밋업 #02 Kotlin with KotlinConf 2023 Global @Pangyo",
+      "image": "https://cdn.inflearn.com/public/courses/331111/cover/d3bfeba9-d3a8-4959-90fc-2c4188cba8a9/global.png?w=420",
+      "link": "https://www.inflearn.com/course/kotlinconf2023?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "드립커피+한모금더",
+      "explain": "컴퓨터 과학 (0): 공개 샘플 강의 - 컴퓨터의 역할",
+      "image": "https://cdn.inflearn.com/public/courses/330849/cover/b7a29ef8-5507-42ec-a700-ed011845d72a/inf-intro-logo3.jpg?w=420",
+      "link": "https://www.inflearn.com/course/컴퓨터기초-전산개론-0?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "어쩔코딩",
+      "explain": "클린코드 찍먹",
+      "image": "https://cdn.inflearn.com/public/courses/330387/cover/d97c0cc2-7532-4aa9-b998-6e4fe717fd77/330387.jpeg?w=420",
+      "link": "https://www.inflearn.com/course/클린코드-찍먹?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "짐코딩",
+      "explain": "입문자를 위한, HTML&CSS 웹 개발 입문",
+      "image": "https://cdn.inflearn.com/public/courses/328368/cover/527d2ce2-3d4c-4650-b5e4-36f4fe60fa76/004.png?w=420",
+      "link": "https://www.inflearn.com/course/왕초보-웹개발-입문?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "무차별 대입 공격(bruteforce attack) with Python",
+      "image": "https://cdn.inflearn.com/public/courses/327854/cover/f7aa3a91-d7dc-4f89-9d9d-f1e3afe97eaa/썸네일_bruteforceattack.png?w=420",
+      "link": "https://www.inflearn.com/course/무차별-대입-공격?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "PWA를 통한 1만 시간의 법칙 앱 제작!",
+      "image": "https://cdn.inflearn.com/public/courses/327763/cover/b9b09d07-780e-4dc9-a761-bdbe338059da/썸네일_PWA.png?w=420",
+      "link": "https://www.inflearn.com/course/1만시간-법칙-앱제작?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "정재남",
+      "explain": "이펙티브 타입스크립트 스터디",
+      "image": "https://cdn.inflearn.com/public/courses/327754/cover/27bfd485-f840-4d41-8f8e-a30fcd39f2e2/327754-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/이펙티브-타입스크립트-스터디?attributionToken=ChQxNTMzNjE2NzIyOTUxMDA5OTYyNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "얄팍한 코딩사전",
+      "explain": "뉴비를 위한 자바스크립트",
+      "image": "https://cdn.inflearn.com/public/courses/332327/cover/f28764f4-b4ca-424f-9f76-5672e65aed96/332327-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/뉴비를-위한-자바스크립트?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "HEARTCOUNT",
+      "explain": "[8월 정기 교육 세션 다시보기] 회귀분석 - 지표 차이의 요인 이해하기",
+      "image": "https://cdn.inflearn.com/public/courses/331897/cover/48ee8779-14a8-4911-86ed-2c2800331192/제목을 입력하세요 (12).png?w=420",
+      "link": "https://www.inflearn.com/course/8월교육-회귀분석-지표차이-요인이해?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Indie Coder",
+      "explain": "Svelte REST-API 프로젝트",
+      "image": "https://cdn.inflearn.com/public/courses/330724/cover/dc935cc8-e6fd-4aa4-841c-4412e0669da3/330724-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/svelte-rest-api-프로젝트?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Indie Coder",
+      "explain": "Svelte로 시작하는 웹 프런트엔드",
+      "image": "https://cdn.inflearn.com/public/courses/330722/cover/f74f01f6-12e1-4f58-a519-684483965b3b/330722-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/스벨트-시작-웹-프론트엔드?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "마량",
+      "explain": "Google이 인정하는 개발자 되기 [커뮤니티와 함께 성장하는 개발자]",
+      "image": "https://cdn.inflearn.com/public/courses/330828/cover/0e3f66d2-4078-443b-a361-f2d3498bce6f/330828.png?w=420",
+      "link": "https://www.inflearn.com/course/구글-개발자-커뮤니티?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "개발자의 품격",
+      "explain": "[웹 개발 풀스택 코스] 넷플릭스와 당근마켓 분석을 통해서 배우는 데이터베이스 기초",
+      "image": "https://cdn.inflearn.com/public/courses/330079/cover/c142fdb2-b4fa-4b6a-9e8f-7bd48aed7635/fullstack-db-1.jpg?w=420",
+      "link": "https://www.inflearn.com/course/웹개발-풀스택-데이터베이스-기초?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "개발자의 품격",
+      "explain": "[웹 개발 풀스택 코스] 부트스트랩 기초",
+      "image": "https://cdn.inflearn.com/public/courses/330077/cover/828bc814-19c5-431e-a72c-f6592c9b7a74/fullstack-bootstrap-1.jpg?w=420",
+      "link": "https://www.inflearn.com/course/웹개발-풀스택-부트스트랩-기초?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Jiwoon Jeong",
+      "explain": "핵심만 빠르게, 입문자를 위한 파이썬(Python)과 판다스(Pandas)",
+      "image": "https://cdn.inflearn.com/public/courses/329493/cover/0f1f8dc2-66d9-4008-869c-14650f846349/329493-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/핵심-입문자-파이썬-판다스?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "SEJONG IT EDU",
+      "explain": "Klaytn 클레이튼 블록체인 어플리케이션 만들기 - 이론과 실습",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/blockchain_thumanil_ending.jpg?w=420",
+      "link": "https://www.inflearn.com/course/클레이튼?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "리이오",
+      "explain": "게임처럼 공부하는 git 던전",
+      "image": "https://cdn.inflearn.com/public/courses/329167/cover/8165c0da-90c6-46b4-9235-f31d0d355326/329167-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/게임처럼-git던전?attributionToken=ChQxMDMwMTYzMzkxMzI1ODkzMDk2NRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "부산대학교 소프트웨어융합교육원",
+      "explain": "문제해결을 통한 웹프로그래밍 입문",
+      "image": "https://cdn.inflearn.com/public/courses/333662/cover/53f16e82-1d93-4bf7-9bf2-81004a007ebd/333662.png?w=420",
+      "link": "https://www.inflearn.com/course/문제해결을-통한-웹프로그래밍-입문?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "부산대학교 소프트웨어융합교육원",
+      "explain": "머신러닝, 딥러닝 입문 : 알고리즘 이해하기",
+      "image": "https://cdn.inflearn.com/public/courses/333661/cover/1d515998-de37-49de-bb16-2329c56a657c/333661.jpg?w=420",
+      "link": "https://www.inflearn.com/course/머신러닝-딥러닝-입문-알고리즘-이해하기?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "부산대학교 소프트웨어융합교육원",
+      "explain": "데이터 분석을 위한 파이썬 입문",
+      "image": "https://cdn.inflearn.com/public/courses/333660/cover/c51d681c-9616-45a2-bc28-789da11e15f5/333660.jpg?w=420",
+      "link": "https://www.inflearn.com/course/데이터-분석-파이썬-입문?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "부산대학교 소프트웨어융합교육원",
+      "explain": "머신러닝 모델을 활용한 Android, iOS 앱 개발",
+      "image": "https://cdn.inflearn.com/public/courses/333545/cover/f5295c6c-744f-43ec-99d6-0b9786728208/333545.png?w=420",
+      "link": "https://www.inflearn.com/course/머신러닝-활용한-android-ios?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "판다스 스튜디오",
+      "explain": "입문자를 위한 Python 기초",
+      "image": "https://cdn.inflearn.com/public/courses/333597/cover/9bd3826b-3bdf-4f49-bcf6-5399e85ae75a/333597.png?w=420",
+      "link": "https://www.inflearn.com/course/입문자-파이썬-기초?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "부산대학교 소프트웨어융합교육원",
+      "explain": "객체지향 개념에 바탕을 둔 Modern C++프로그래밍",
+      "image": "https://cdn.inflearn.com/public/courses/333546/cover/390f964f-c70d-4c04-a815-665e2e870b3d/333546.jpg?w=420",
+      "link": "https://www.inflearn.com/course/객체지향-modern-cpp?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "부산대학교 소프트웨어융합교육원",
+      "explain": "이공계열 전공자를 위한 컴퓨팅사고와 인공지능",
+      "image": "https://cdn.inflearn.com/public/courses/333483/cover/f19a63a8-7927-47cc-a580-042bf6a022d6/333483.jpg?w=420",
+      "link": "https://www.inflearn.com/course/이공계열-전공자-컴퓨팅사고-인공지능?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "더코딩클럽",
+      "explain": "컴퓨터구조, 네트워크 기본 개념 정리",
+      "image": "https://cdn.inflearn.com/public/courses/333153/cover/606ed817-4320-4183-8633-d90f16861347/333153.png?w=420",
+      "link": "https://www.inflearn.com/course/컴퓨터구조-네트워크-개념?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "제주코딩베이스캠프",
+      "explain": "위니브월드 탐험대 - 게임으로 배우는 파이썬",
+      "image": "https://cdn.inflearn.com/public/courses/332409/cover/047d2eed-89ce-4eca-a267-ece6ee54d515/332409-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/위니브월드-탐험대-게임으로-배우는-파이썬?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "고박사",
+      "explain": "따라하면서 배우는 고박사의 뒤끝 온라인 게임 개발",
+      "image": "https://cdn.inflearn.com/public/courses/331074/cover/3a992876-3369-458d-9796-1219dc1a9703/331074-eng (1).jpg?w=420",
+      "link": "https://www.inflearn.com/course/고박사-유니티-뒤끝?attributionToken=ChMyNzk5OTk1Mzc2NDI1NDE5OTEyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "이지스퍼블리싱",
+      "explain": "Do it! HTML+CSS+자바스크립트 웹 표준의 정석",
+      "image": "https://cdn.inflearn.com/public/courses/330798/cover/531cb564-6596-4c1b-873b-8af908b84f08/330798-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/do-it-html-css-js?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "불꽃남자25",
+      "explain": "9가지 분류로 보는 IT 개발 회사 (취업, 이직, 진로 결정)",
+      "image": "https://cdn.inflearn.com/public/courses/327797/cover/b5c35089-6d6c-4e04-93bd-6505bed060f4/327797-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/9가지-it-회사?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "보안프로젝트",
+      "explain": "라즈베리파이 IoT 프로그램과 클라우드 입문 과정",
+      "image": "https://cdn.inflearn.com/public/courses/326659/cover/6f5ecf28-b450-475d-b18f-c18b1cbb12e8?w=420",
+      "link": "https://www.inflearn.com/course/라즈베리파이-iot-입문?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "보안프로젝트",
+      "explain": "IT보안을 위한 와이어샤크 네트워크 패킷 분석 실전",
+      "image": "https://cdn.inflearn.com/public/courses/324137/course_cover/28e6c95d-9492-4172-8b7f-a4686fb7db03/boan_wireshark.png?w=420",
+      "link": "https://www.inflearn.com/course/wireshark_boanproject?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "보안프로젝트",
+      "explain": "웹 서비스 해킹을 위한 버프스위트 완벽 활용 가이드",
+      "image": "https://cdn.inflearn.com/public/courses/324072/course_cover/398b51a1-f5ea-47f7-8939-772d06fef504/boan_burp.png?w=420",
+      "link": "https://www.inflearn.com/course/boan_burpsuite?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "박조은",
+      "explain": "캐글 실습으로 배우는 데이터 사이언스",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/kaggle.jpg?w=420",
+      "link": "https://www.inflearn.com/course/데이터-사이언스-kaggle?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "유용한IT학습",
+      "explain": "구글 애드워즈 - 캠페인 유형별로 모아서보기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/googleadwords.jpg?w=420",
+      "link": "https://www.inflearn.com/course/marketing-google-adwords?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "유용한IT학습",
+      "explain": "[포토샵 혁명 방송] 포토샵 기초 완성",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/photoshop002.jpg?w=420",
+      "link": "https://www.inflearn.com/course/포토샵-혁명-방송-포토샵-기초-완성?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "1분코딩",
+      "explain": "BBC 인터랙티브 페이지 \"코로나19가 바꿀 사무실의 미래\" 클론",
+      "image": "https://cdn.inflearn.com/public/course-325919-cover/5bfc242a-b3ac-403f-860e-614097e220d3?w=420",
+      "link": "https://www.inflearn.com/course/bbc-인터랙티브웹-클론?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "크리핵티브",
+      "explain": "성공적인 SQL 인젝션 공격을 위한, SQL 기본 문법",
+      "image": "https://cdn.inflearn.com/public/courses/324577/course_cover/b3cbb825-f59f-4a3f-814a-b5aa7a3b2f04/sql_injection_01_2.png?w=420",
+      "link": "https://www.inflearn.com/course/SQL-인젝션-공격-기본-문법?attributionToken=ChM4MzE4NTk4Nzc3MDY3MzIyMDEzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "lectopia1",
+      "explain": "[EduAtoZ] Python CosPro 1급 예상문제 풀이(40문제)",
+      "image": "https://cdn.inflearn.com/public/courses/328114/cover/b2342b0b-d992-4561-a042-3cdc834cf77c/328114-eng-resize.png?w=420",
+      "link": "https://www.inflearn.com/course/파이썬-cos-기출문제?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "메이커멘토",
+      "explain": "Do it! C# 프로그래밍 입문",
+      "image": "https://cdn.inflearn.com/public/courses/330288/cover/c5fd423c-beaf-4de3-84ef-5b1788e9d65e/330288-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/두잇-씨샵-프로그래밍-입문?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "coldmind",
+      "explain": "블록체인 이더리움 지분증명(Proof of Stake)",
+      "image": "https://cdn.inflearn.com/public/courses/330171/cover/8dde04a0-320a-42d9-9530-28915a999372/330171-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/블록체인-이더리움-지분증명?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "스타트코딩",
+      "explain": "[2024 개정판] 코딩 입문자를 위한 파이썬 완벽가이드",
+      "image": "https://cdn.inflearn.com/public/courses/330054/cover/6783a927-2c22-48b7-b579-bee6f615c4d7/330054.png?w=420",
+      "link": "https://www.inflearn.com/course/코딩-입문자-파이썬-기초?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "쉬운코드",
+      "explain": "시니어 백엔드 개발자가 알려주는 데이터베이스 개론 & SQL",
+      "image": "https://cdn.inflearn.com/public/courses/329667/cover/adc25cdf-e5ed-4724-ad8b-cd56724ba306/인프런_DB_대표이미지.png?w=420",
+      "link": "https://www.inflearn.com/course/백엔드-데이터베이스-개론?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "스타트코딩",
+      "explain": "[2024 개정판] 이것이 진짜 크롤링이다 - 기본편",
+      "image": "https://cdn.inflearn.com/public/courses/327774/cover/e4716cd6-c1d3-407c-af87-3f83c81269ec/327774.png?w=420",
+      "link": "https://www.inflearn.com/course/파이썬-크롤링-기초?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "메이커멘토",
+      "explain": "아두이노 시작하기",
+      "image": "https://cdn.inflearn.com/public/course-325516-cover/d7e8f448-3c8a-43c4-88f8-03d46854c16d?w=420",
+      "link": "https://www.inflearn.com/course/아두이노-시작하기?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "코코",
+      "explain": "R프로그래밍 기초 다지기",
+      "image": "https://cdn.inflearn.com/public/courses/324587/course_cover/e821ef82-c27c-4d24-b0d2-a6c8778eb99c/Rbasic.png?w=420",
+      "link": "https://www.inflearn.com/course/R-프로그래밍-기초?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "유인동",
+      "explain": "타입스크립트로 배우는 동시성, 함수형 프로그래밍 (수요코딩회 ep.1)",
+      "image": "https://cdn.inflearn.com/public/courses/333790/cover/a2badbcb-b832-4fcd-a89a-2e90873fa876/333790.png?w=420",
+      "link": "https://www.inflearn.com/course/타입스크립트로-배우는-동시성-함수형?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "부산대학교 소프트웨어융합교육원",
+      "explain": "객체지향 개념에 바탕을 둔 JAVA 프로그래밍",
+      "image": "https://cdn.inflearn.com/public/courses/333547/cover/91b505e3-8769-460f-bc5a-8c6bcbb762ef/333547.jpg?w=420",
+      "link": "https://www.inflearn.com/course/객체지향-java-프로그래밍?attributionToken=ChQxNTIzMjc3ODYwMDczMDUzNDAwNxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "WEB2 - CSS",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/web2.png?w=420",
+      "link": "https://www.inflearn.com/course/생활코딩의-web2시리즈?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "생활코딩 - Linux",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/linux-1.jpg?w=420",
+      "link": "https://www.inflearn.com/course/생활코딩-리눅스-강좌?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "목마하임(MokmaHeim)",
+      "explain": "쉽게 배우는 ZBrush 입문 강좌",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/zbrush3.jpg?w=420",
+      "link": "https://www.inflearn.com/course/지브러시-강좌-zbrush-입문?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "목마하임(MokmaHeim)",
+      "explain": "3DS MAX 입문강좌 (입문부터 자동차 예제까지)",
+      "image": "https://cdn.inflearn.com/public/courses/28579/cover/ed8e497b-2bbd-4a30-9f26-679d4b4cccff/28579.jpg?w=420",
+      "link": "https://www.inflearn.com/course/3ds-max-쉽게-배우는-3ds-맥스-입문?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "생활코딩 - HTML 기초",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/html.png?w=420",
+      "link": "https://www.inflearn.com/course/html-기초?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "이지스퍼블리싱",
+      "explain": "Do it! Node.js 프로그래밍 입문",
+      "image": "https://cdn.inflearn.com/public/courses/332676/cover/1cfcb91d-2b3a-4beb-a8d2-c2e9699abf0d/332676.png?w=420",
+      "link": "https://www.inflearn.com/course/do-it-nodejs-프로그래밍-입문?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "김대현",
+      "explain": "순수 함수형 프론트엔드 언어 Elm 가이드",
+      "image": "https://cdn.inflearn.com/public/courses/331844/cover/d02706a4-a0f7-40a0-83b3-386840bf3c0e/331844-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/순수-함수형-프론트엔드-언어-elm-가이드?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "김대디",
+      "explain": "[초급] 찍어먹자! 코틀린과 Spring Security + JWT로 회원가입 만들기",
+      "image": "https://cdn.inflearn.com/public/courses/331379/cover/4208402d-5885-44b1-865f-c88cb84a57e3/331379-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/코틀린과-spring-security-jwt-회원가입만들기?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "불꽃남자25",
+      "explain": "PM을 위한 IT SI프로젝트 전 과정 알아가기",
+      "image": "https://cdn.inflearn.com/public/courses/328833/cover/81ee3a48-b70f-487a-9de1-ff5d5d856a2d/328833-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/pm-si-프로젝트-알아가기?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "불꽃남자25",
+      "explain": "비 개발자들을 위한 IT 개발 지식",
+      "image": "https://cdn.inflearn.com/public/courses/327798/cover/8dde2f99-de20-4678-b98d-7b211ce8e8cb/327798.png?w=420",
+      "link": "https://www.inflearn.com/course/비개발자-it-개발-지식?attributionToken=ChQxMTYyMjQ0OTAwMTc2MzA4ODMxMxANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "cgbump",
+      "explain": "[게임 그래픽] 이것만 알면 시리즈!",
+      "image": "https://cdn.inflearn.com/public/courses/331463/cover/814e2b87-4987-44b6-a347-0c52258c1783/331463.png?w=420",
+      "link": "https://www.inflearn.com/course/이것만-알면-게임-그래픽?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "김지유",
+      "explain": "Selenium 기본 과정",
+      "image": "https://cdn.inflearn.com/public/courses/330987/cover/7ed79ce2-764e-473b-97ad-81d6f37708a2/330987-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/selenium-기본-과정?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Jiwoon Jeong",
+      "explain": "핵심만 빠르게, 입문자를 위한 딥러닝(Deep Learning)과 텐서플로(TensorFlow)",
+      "image": "https://cdn.inflearn.com/public/courses/330737/cover/b4d6c0ef-5dae-4e34-a1d1-c2ef9fad3514/330737-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/핵심-입문-딥러닝-텐서플로?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "리이오",
+      "explain": "개발자 용어 부스러기 주워먹기",
+      "image": "https://cdn.inflearn.com/public/courses/329423/cover/8a4b7f47-083b-4539-af40-21d1d7ea06e1/329423-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/개발-용어-리이오?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "John Ahn",
+      "explain": "따라하며 배우는 NestJS",
+      "image": "https://cdn.inflearn.com/public/courses/327527/cover/0915f7e5-f2e9-479c-b6d5-c3b1c389ff6e/327527-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/따라하는-네스트-제이에스?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "John Ahn",
+      "explain": "따라하며 배우는 노드, 리액트 시리즈 - 영화 사이트 만들기",
+      "image": "https://cdn.inflearn.com/public/courses/324906/course_cover/63e47a67-f188-41a1-94a0-1ffecc7734c0/nodeReact-film.png?w=420",
+      "link": "https://www.inflearn.com/course/따라하며-배우는-노드-리액트-영화사이트-만들기?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "장용하",
+      "explain": "신은 직장을 안 다녀!(신의 직장 퇴사 후 1년)",
+      "image": "https://cdn.inflearn.com/public/courses/324725/course_cover/03a602ca-6965-4a03-ac80-17e1b475f64c/jyh-company.png?w=420",
+      "link": "https://www.inflearn.com/course/신의직장-퇴사-후-1년?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "박범진",
+      "explain": "SELECT ALL FROM SQL2",
+      "image": "https://cdn.inflearn.com/public/courses/331308/cover/219ede26-690e-42c2-b0b8-10d74492f5f2/331308-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/select-all-from-sql2?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "뽀꿈",
+      "explain": "리터칭으로 쉽게 가능한 MapleStory Worlds 아바타 아이템 제작!",
+      "image": "https://cdn.inflearn.com/public/courses/330399/cover/9c67e58e-b250-4b08-a43a-6bc439bd8719/인프런 썸네일 복사.jpg?w=420",
+      "link": "https://www.inflearn.com/course/maplestory-worlds-뽀꿈?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "전데연",
+      "explain": "[MapleStory Worlds] 직접 만드는 취향가득 나만의 아이템!",
+      "image": "https://cdn.inflearn.com/public/courses/330431/cover/28f868e6-e0d9-4bac-9fbb-cf1f021a4359/330431-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/maplestory-worlds-전데연?attributionToken=ChMxMTc4MTkzMDM3MzU1OTE4NjY2EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "디자인베이스",
+      "explain": "포토샵 기본기 하루 5분, 3주 만에 끝내기",
+      "image": "https://cdn.inflearn.com/public/courses/324640/course_cover/47c5058f-c1be-4c3b-9aeb-2fe69225cd3c/photoshop_thumbnail.jpg?w=420",
+      "link": "https://www.inflearn.com/course/포토샵-기본기-3주완성?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "Web4 - Express-Session-Auth",
+      "image": "https://cdn.inflearn.com/public/courses/324140/course_cover/8321ddf2-5046-454a-bda1-f380fb3de894/web4_session-auth.png?w=420",
+      "link": "https://www.inflearn.com/course/web4-Express-Session-Auth?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "짤막한 강좌(한정희)",
+      "explain": "엑셀 기초에서 실무까지",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/excel-4.png?w=420",
+      "link": "https://www.inflearn.com/course/엑셀?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "버전 관리 시스템 Git",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/git-4.jpg?w=420",
+      "link": "https://www.inflearn.com/course/git-2?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "호눅스",
+      "explain": "Git과 GitHub 시작하기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/git-3.jpg?w=420",
+      "link": "https://www.inflearn.com/course/git-and-github?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "Node.js - Express",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/web2_express-2.jpg?w=420",
+      "link": "https://www.inflearn.com/course/node-js-express?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "WEB2 - Node.js",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/node.js-1.jpg?w=420",
+      "link": "https://www.inflearn.com/course/web2-node-js?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "WEB2 - Python 기초",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/python-2.jpg?w=420",
+      "link": "https://www.inflearn.com/course/web2-python?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "WEB3 - PHP & MySQL",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/phpmysql.jpg?w=420",
+      "link": "https://www.inflearn.com/course/web3-php-mysql?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "DATABASE 1&2 - MySQL",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/database2_mysql.png?w=420",
+      "link": "https://www.inflearn.com/course/database-2-mysql-강좌?attributionToken=ChM5NTgwNTYwMzAyNTM5MjE5NDkxEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "유용한IT학습",
+      "explain": "유니티 기초 강좌 - 기획부터 사용까지",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/unity002.jpg?w=420",
+      "link": "https://www.inflearn.com/course/유니티-기초-강좌-기획부터-사용까지-2?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "김플",
+      "explain": "파이썬 기초 강의 - 프로그래밍 입문",
+      "image": "https://cdn.inflearn.com/public/courses/330946/cover/d4eedeeb-dcbc-4bcb-b15e-ba592fee12aa/330946-eng.jpg?w=420",
+      "link": "https://www.inflearn.com/course/처음-배우는-파이썬?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "기술노트with알렉",
+      "explain": "기술노트 - 컴퓨터 구조부터 클라우드, 빅데이터까지 / 진로 고민, 취업 상담",
+      "image": "https://cdn.inflearn.com/public/courses/327450/cover/a1220a6b-0c07-4eb2-9342-c45708b3a557/327450-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/기술노트-구조-빅데이터?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "김플",
+      "explain": "업무 자동화를 위한 파이썬 pyautogui, beautifulsoup 크롤링 기초",
+      "image": "https://cdn.inflearn.com/public/courses/324445/course_cover/d5cfc064-0223-44fa-9fd5-df1490ecf056/automation_2.png?w=420",
+      "link": "https://www.inflearn.com/course/업무자동화-파이썬-pyautogui-크롤링기초?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "두노피",
+      "explain": "바~로 실습! 개념몰라도 됨, HTML 시작",
+      "image": "https://cdn.inflearn.com/public/courses/332704/cover/1c1d0853-7f29-4615-b489-49a6d1f14166/332704.jpg?w=420",
+      "link": "https://www.inflearn.com/course/html-css-기초지만-실습하는-기초?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Adobe Substance 3D",
+      "explain": "CLO X VMOD 디자이너의 패션업계 Substance 3D 활용 노하우",
+      "image": "https://cdn.inflearn.com/public/courses/332306/cover/777d26cb-290a-46e8-951f-53fe5aec30d9/332306-eng.jpg?w=420",
+      "link": "https://www.inflearn.com/course/패션업-substance-3d-노하우?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "HEARTCOUNT",
+      "explain": "기계학습 알고리즘 - 회귀분석과 의사결정나무",
+      "image": "https://cdn.inflearn.com/public/courses/331381/cover/cb11810c-8302-4718-9adb-a38f24f7b9b9/06_인프런_머신러닝.png?w=420",
+      "link": "https://www.inflearn.com/course/기계학습-알고리즘-회귀분석-의사결정나무?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "HEARTCOUNT",
+      "explain": "[3월 정기 교육 세션 다시보기] 다변량 데이터 시각화하기 with. HEARTCOUNT",
+      "image": "https://cdn.inflearn.com/public/courses/330817/cover/82d965b1-0729-4d47-a659-c5d9340b59a6/330817-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/23-3월-정기교육-heartcount?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "HEARTCOUNT",
+      "explain": "입문자를 위한 데이터 이해와 시각화 기초(이론+실습)",
+      "image": "https://cdn.inflearn.com/public/courses/329885/cover/96ed59be-f8c7-4cb3-a9c7-c66368a58162/05_인프런_데이터리터러시.png?w=420",
+      "link": "https://www.inflearn.com/course/데이터활용-이해-시각화-기초?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "SyncTree",
+      "explain": "노코드, GPT, 백엔드 연결의 모든 것! 노코드로 끝내기",
+      "image": "https://cdn.inflearn.com/public/courses/330719/cover/5f3152a5-658c-4f37-ba28-3f4b39bdeda4/330719-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/노코드-gpt-백엔드-연결?attributionToken=ChQxNzc3NjU2NTQ1ODAyMjg5OTc2MBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "태림 스튜디오",
+      "explain": "내 일상에 ChatGPT는 어떻게 활용되는가?",
+      "image": "https://cdn.inflearn.com/public/courses/333680/cover/ecdf0c28-7838-4667-bd5e-294c3918a4f2/333680.png?w=420",
+      "link": "https://www.inflearn.com/course/chatgpt-일상-활용?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "부산대학교 소프트웨어융합교육원",
+      "explain": "머신러닝, 딥러닝 기초 with Python, Keras",
+      "image": "https://cdn.inflearn.com/public/courses/333664/cover/924ac728-9a32-46e0-a002-b5d5ca40f4b7/333664.png?w=420",
+      "link": "https://www.inflearn.com/course/머신러닝-딥러닝-기초-python-keras?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "더코딩클럽",
+      "explain": "알고리즘 기본 개념",
+      "image": "https://cdn.inflearn.com/public/courses/333095/cover/ccf7a0a1-bcb2-49ba-9670-3ab39ff0a0da/333095.png?w=420",
+      "link": "https://www.inflearn.com/course/알고리즘-기본-개념?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "나도코딩",
+      "explain": "파이썬 무료 강의 (활용편7) - 머신러닝",
+      "image": "https://cdn.inflearn.com/public/courses/329678/cover/b364d9a9-b373-474d-add0-191f1d69360f/인프런 머신러닝 썸네일.png?w=420",
+      "link": "https://www.inflearn.com/course/파이썬-활용7-머신러닝?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "깨끗한 캥거루",
+      "explain": "코딩은 처음이라 with 웹 퍼블리싱 - CSS",
+      "image": "https://cdn.inflearn.com/public/courses/329595/cover/f1c937e6-f646-4aa1-a22d-566d52764c1a/329595-original.jpg?w=420",
+      "link": "https://www.inflearn.com/course/코딩은-처음이라-웹-퍼블리싱-css?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "깨끗한 캥거루",
+      "explain": "코딩은 처음이라 with 웹 퍼블리싱 - HTML 기초",
+      "image": "https://cdn.inflearn.com/public/courses/329591/cover/d03bac9e-355b-4d1b-91ae-6d913a1f1545/329591-original.jpg?w=420",
+      "link": "https://www.inflearn.com/course/코딩은-처음이라-웹-퍼블리싱-html?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "와글와글 팩토리",
+      "explain": "로블록스 점프 앤 런타워 게임 만들기 (초등용)",
+      "image": "https://cdn.inflearn.com/public/courses/329044/cover/e37671bd-a3c8-4b82-8d62-9748ed2c9f89/329044-eng-original.png?w=420",
+      "link": "https://www.inflearn.com/course/로블록스-점프-게임-초등?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "유노코딩",
+      "explain": "CSS 레이아웃 - flex & grid",
+      "image": "https://cdn.inflearn.com/public/courses/328739/cover/7920d938-4526-4275-8211-7a93eefc3adf/00_CSS 레이아웃 복사.png?w=420",
+      "link": "https://www.inflearn.com/course/css-레이아웃-flex-grid?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "나도코딩",
+      "explain": "파이썬 무료 강의 (활용편5) - 데이터 분석 및 시각화",
+      "image": "https://cdn.inflearn.com/public/courses/328698/cover/ec834424-8b10-4fcf-9bcc-b8cdaa28fc8d/328698_engsth_aws.jpg?w=420",
+      "link": "https://www.inflearn.com/course/나도코딩-데이터분석-시각화?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "webstoryboy",
+      "explain": "[웹 퍼블리싱 실습] 반응형 사이트 만들기",
+      "image": "https://cdn.inflearn.com/public/courses/328215/cover/336533da-bae5-46bd-888f-0f5f0fea43cd/328215-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/반응형-사이트-만들기-실습?attributionToken=ChM3ODgxMzg2NTE3NzQ3MTE0MzgyEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "Sung Kim",
+      "explain": "모두를 위한 딥러닝 - Deep Reinforcement Learning",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/rl.jpg?w=420",
+      "link": "https://www.inflearn.com/course/reinforcement-learning?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "생활코딩 - PHP 기본 A 부터 Z 까지",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/opentutorials_php.png?w=420",
+      "link": "https://www.inflearn.com/course/생활코딩-php-강좌?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "ATOM Editor 소개 및 사용법",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/atom001.jpg?w=420",
+      "link": "https://www.inflearn.com/course/atom-editor-소개-및-사용법?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "웹브라우저 Javascript (자바스크립트)",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/js.png?w=420",
+      "link": "https://www.inflearn.com/course/javascript-자바스크립트-강좌?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "생활코딩 - 정규표현식",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/re.png?w=420",
+      "link": "https://www.inflearn.com/course/생활코딩-정규표현식?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "따라하면서 배우는 웹애플리케이션 만들기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/web3-1.png?w=420",
+      "link": "https://www.inflearn.com/course/웹어플리케이션-강좌?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "김왼손의 왼손코딩",
+      "explain": "[김왼손의 왼손코딩] 프로그래밍 포기자를 위한 챗GPT X 파이썬",
+      "image": "https://cdn.inflearn.com/public/courses/331689/cover/837c709b-807b-492c-b35a-971713e67447/썸네일.png?w=420",
+      "link": "https://www.inflearn.com/course/왼손코딩-챗gpt-파이썬?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Dowon Lee",
+      "explain": "멀티OS 사용을 위한 가상화 환경 구축 가이드 (Docker + Kubernetes)",
+      "image": "https://cdn.inflearn.com/public/courses/331523/cover/404d66ef-26e2-43c5-bcc0-6f80e8fe5c9c/331523-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/virtualization-개발-환경-구축-가이드?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "이지스퍼블리싱",
+      "explain": "Do it! HTML5 + CSS3 웹 표준의 정석 전면 개정 2판",
+      "image": "https://cdn.inflearn.com/public/courses/330795/cover/b02b07de-4192-4564-ba7c-f8214da9c2d7/Do it! HTML5 CSS3 웹표준정석 개정2판.png?w=420",
+      "link": "https://www.inflearn.com/course/do-it-html5-css3-개정2판?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "이지스퍼블리싱",
+      "explain": "Do it! SQL 입문",
+      "image": "https://cdn.inflearn.com/public/courses/330802/cover/33981db8-0c8a-431c-874f-afe0076ba2ca/330802-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/do-it-sql-입문?attributionToken=ChQxMDI0NDExMDM1NzQxOTM1NDY1OBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "김지형",
+      "explain": "아빠가 들려주는 [R shiny app] 만들기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/rshiny1.jpg?w=420",
+      "link": "https://www.inflearn.com/course/r-shiny-app?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "김형률",
+      "explain": "세계 28개국 131개 명문대학별 MOOC 강의대본 편집목록 설명",
+      "image": "https://cdn.inflearn.com/public/courses/329732/cover/989af698-a310-4c35-ba78-c6f8ed755e73/329732-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/세계-명문대학별-mooc-목록?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "리이오",
+      "explain": "UI와 함께 배우는 Swift - 레벨3",
+      "image": "https://cdn.inflearn.com/public/courses/329510/cover/99398c60-090a-4582-9c4f-5045dcdcdf90/329510-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/ui-swift-레벨3?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "김형률",
+      "explain": "세계 30개국 명문대학 전공별 MOOC 설명",
+      "image": "https://cdn.inflearn.com/public/courses/329276/cover/6b9e815b-f4c6-499d-b87a-7045eb17ee72/329276-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/세계-명문대학-전공별-mooc-설명?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "김형률",
+      "explain": "하버드 대학 무료 온라인수업 무크(MOOC) 수강 방법 소개",
+      "image": "https://cdn.inflearn.com/public/courses/329217/cover/f894132c-e773-4700-8c18-c35692dd4457/329217-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/하버드-무크-수강-방법?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "개발하는남자",
+      "explain": "[플러터 상태관리] Bloc 마스터 코스 기초부터 응용까지!",
+      "image": "https://cdn.inflearn.com/public/courses/330400/cover/429fd761-1a91-43b2-90fe-26f1be5956d4/330400-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/플러터-상태관리-블락-마스터코스?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "검은세상",
+      "explain": "메타버스에서 메이플스토리 IP를 활용하여 나를 브랜딩 하는 방법",
+      "image": "https://cdn.inflearn.com/public/courses/330394/cover/2e8b9411-d195-423d-8e44-5d6cfc2df77f/330394-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/maplestory-worlds-검은세상?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "h662",
+      "explain": "[D.P.(DappProject)] 디앱 프로젝트(NFT 생성, NFT 구매 및 판매)",
+      "image": "https://cdn.inflearn.com/public/courses/328372/cover/cbf4d2fd-eb33-4d57-977e-55f05e4b8954/Untitled-1 copy.png?w=420",
+      "link": "https://www.inflearn.com/course/디앱-프로젝트?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "이룸코딩",
+      "explain": "HTML5 & CSS3 기초 문법 올인원",
+      "image": "https://cdn.inflearn.com/public/courses/327351/cover/44676d5f-95fc-46eb-baea-6c344bdcb2e2/html-css-tumbnail2.jpg?w=420",
+      "link": "https://www.inflearn.com/course/html-css-기초-문법-올인원?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "박범진",
+      "explain": "MATLAB으로 시작하는 프로그래밍",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/Matlab_pbj.jpg?w=420",
+      "link": "https://www.inflearn.com/course/matlab-시작-programming?attributionToken=ChM2MDk3MDI4NzIyNjEyMzU1NjYzEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "주니온",
+      "explain": "양자 컴퓨터 프로그래밍 입문",
+      "image": "https://cdn.inflearn.com/public/courses/326623/cover/aaa2a961-3e07-41f8-bdfe-db2771744baf?w=420",
+      "link": "https://www.inflearn.com/course/양자-컴퓨팅-입문?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "데브원영 DVWY",
+      "explain": "[데브원영] 아파치 카프카 for beginners",
+      "image": "https://cdn.inflearn.com/public/courses/326507/cover/aa474be0-c000-4b61-afbb-cb78ed0fb843?w=420",
+      "link": "https://www.inflearn.com/course/아파치-카프카-입문?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "NJ Namju Lee",
+      "explain": "라이노 그라스하퍼 C# 디자인 스크립팅",
+      "image": "https://cdn.inflearn.com/public/courses/326408/cover/391594a3-b5e6-4882-b1c4-99a48968a47f?w=420",
+      "link": "https://www.inflearn.com/course/라이노-그라스하퍼?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "DeepingSauce",
+      "explain": "문과생도, 비전공자도, 누구나 배울 수 있는 파이썬(Python)!",
+      "image": "https://cdn.inflearn.com/public/course-326085-cover/cda39da9-186f-4aec-a3e7-b99b7d407821?w=420",
+      "link": "https://www.inflearn.com/course/생초보-입문-파이썬?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "코더스하이",
+      "explain": "[애플 공식 교재] 스위프트 퍼즐 2",
+      "image": "https://cdn.inflearn.com/public/courses/325451/course_cover/a9649bb7-3c02-4d2f-9f1a-78c0889b2258/ltc2.jpg?w=420",
+      "link": "https://www.inflearn.com/course/swift-high-coding2?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "나도코딩",
+      "explain": "파이썬 무료 강의 (활용편1) - 추억의 오락실 게임 만들기 (3시간)",
+      "image": "https://cdn.inflearn.com/public/courses/325470/course_cover/4c0be9b7-79b6-4ba4-8e32-cd773577d964/nadocoding-python-game-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/나도코딩-파이썬-활용편-1?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "개발자Park",
+      "explain": "C# 처음부터 배우기",
+      "image": "https://cdn.inflearn.com/public/courses/325001/course_cover/efb3e24d-d9dc-40ff-9f94-b1c6416d9d73/c-sharp-beginner-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/c-sharp-처음부터-배우기?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "디자인베이스",
+      "explain": "포토샵 스킬 UP을 위한 실전 강좌!",
+      "image": "https://cdn.inflearn.com/public/courses/324644/course_cover/04e565cd-9446-432e-b51b-2dbb0fd18b74/photoshop-advanced-thumbnail.jpg?w=420",
+      "link": "https://www.inflearn.com/course/포토샵-실전-강좌?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "반원",
+      "explain": "파이썬 레시피 - 웹 활용 입문편 (전자책 포함)",
+      "image": "https://cdn.inflearn.com/public/courses/324048/course_cover/a2a41bc4-d093-4a91-b772-ea16bfc7acab/python_semicircle.png?w=420",
+      "link": "https://www.inflearn.com/course/파이썬-레시피-활용?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "노마드크리에이터",
+      "explain": "게임으로 배우는 JavaScript",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/sjh_JS-1.jpg?w=420",
+      "link": "https://www.inflearn.com/course/javascript-game?attributionToken=ChMzNDQzOTQxODUwOTYzMzQyODY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "코사트",
+      "explain": "유니티초보자를 위한 드래곤플라이트 만들기",
+      "image": "https://cdn.inflearn.com/public/courses/331638/cover/88c63cb1-7ebb-4cd9-ae5a-a0c7d2d64d83/331638-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/유니티-초보-드래곤플라이트?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "HEARTCOUNT",
+      "explain": "[4월 정기 교육 세션 다시보기] 개별 레코드 수준의 시각화하기 with. HEARTCOUNT",
+      "image": "https://cdn.inflearn.com/public/courses/331021/cover/c76dbec1-eb88-4337-9245-6710615ad959/331021-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/23-4월-정기교육-heartcount?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "코사트",
+      "explain": "온국민 클레이튼 표준 토큰 빠르게 만들기",
+      "image": "https://cdn.inflearn.com/public/courses/326593/cover/906cc3d7-604f-451b-8b70-899020f7e388?w=420",
+      "link": "https://www.inflearn.com/course/클레이튼-표준토큰?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "투씨드 클라쓰",
+      "explain": "[투씨드 클라쓰] Jira Work Management User Runbook",
+      "image": "https://cdn.inflearn.com/public/courses/330832/cover/8309cf94-a84c-49d3-9737-fd69c5b41580/330832-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/jira-work-management?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "슬기로운 통계생활",
+      "explain": "산점도 예제로 배우는 R 데이터 시각화",
+      "image": "https://cdn.inflearn.com/public/course-325843-cover/bd692dbd-872b-4467-9419-ce3e018aa9b2?w=420",
+      "link": "https://www.inflearn.com/course/ggplot2-산점도?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "리이오",
+      "explain": "간단하게 만들어 보는 iOS 설정앱",
+      "image": "https://cdn.inflearn.com/public/courses/329509/cover/4e9e2eb5-e733-4181-8594-2b7b60f2d87e/329509-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/ios-swiftui-설정앱?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "리이오",
+      "explain": "계산기앱으로 시작해보는 SwiftUI",
+      "image": "https://cdn.inflearn.com/public/courses/329335/cover/b1c97d27-f886-42e7-b142-a145d1314bb0/main-2.png?w=420",
+      "link": "https://www.inflearn.com/course/계산기-swiftui?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "리이오",
+      "explain": "한 조각씩 배우는 SwiftUI - 입문편",
+      "image": "https://cdn.inflearn.com/public/courses/329278/cover/2cbc6be8-debd-4636-b5f7-fa5ea7e2eccf/329278-eng-resize.png?w=420",
+      "link": "https://www.inflearn.com/course/한조각-swiftui-입문?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "아이지에이웍스(IGAWorks)",
+      "explain": "데이터 드리븐 마케팅 101 (Data Marketing)",
+      "image": "https://cdn.inflearn.com/public/courses/331265/cover/b9fac1ba-3092-4873-a2ad-4e41d32a6378/331265.png?w=420",
+      "link": "https://www.inflearn.com/course/데이터-드리븐-마케팅-101?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Bad_Melon",
+      "explain": "[MapleStory Worlds]초보자부터 시작하는 Lv.1 튜토리얼 강의",
+      "image": "https://cdn.inflearn.com/public/courses/330389/cover/bb6f8766-6ce8-4791-b797-63b80b3e0d19/330389-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/maplestory-worlds-badmelon?attributionToken=ChQxMTEzNDYwOTkxMDc3MjU2OTUwNBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "만능MN",
+      "explain": "블록코딩의 이해",
+      "image": "https://cdn.inflearn.com/public/course-325568-cover/16d9dbc6-300d-40b1-8c70-8e7429fc845f?w=420",
+      "link": "https://www.inflearn.com/course/블록코딩-cos?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "정상우",
+      "explain": "PHP 8, 새로운 기능 살펴보기",
+      "image": "https://cdn.inflearn.com/public/course-326005-cover/4798b800-4e94-4294-88cc-dfd485547b97?w=420",
+      "link": "https://www.inflearn.com/course/php8-new-features?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "주니온",
+      "explain": "소인수 분해 알고리즘 완전정복",
+      "image": "https://cdn.inflearn.com/public/course-325936-cover/3b2f4343-c0e3-491b-9f3b-a88d4403231b?w=420",
+      "link": "https://www.inflearn.com/course/소인수분해-알고리즘-파이썬?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "설리번 프로젝트",
+      "explain": "나는 게임으로 공부한다!",
+      "image": "https://cdn.inflearn.com/public/course-325781-cover/b2840c30-7490-4977-9ed2-12cf0a003587?w=420",
+      "link": "https://www.inflearn.com/course/설리번프로젝트-게임개발?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "홍드로이드",
+      "explain": "현직 개발자가 알려주는 안드로이드 앱 쉽게 만드는 방법",
+      "image": "https://cdn.inflearn.com/public/course-325254-cover/0d10cc1b-dcff-478e-a4a8-44ffdf19b684?w=420",
+      "link": "https://www.inflearn.com/course/현직개발자-안드로이드-앱?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "홍정모",
+      "explain": "홍정모의 실리콘밸리 도전기",
+      "image": "https://cdn.inflearn.com/public/course-325722-cover/6e20c9bd-70de-41cc-9eda-d48e0df7058c?w=420",
+      "link": "https://www.inflearn.com/course/홍정모-실리콘밸리-취업?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "코드바나나",
+      "explain": "Windows PowerShell 기초 배우기",
+      "image": "https://cdn.inflearn.com/public/course-325284-cover/1b6ff551-63ce-4021-88c5-0860661bf6e6?w=420",
+      "link": "https://www.inflearn.com/course/파워셸-기초?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "(주)인사이트마이닝",
+      "explain": "이부일의 R릴레오 시즌2 (기초편)",
+      "image": "https://cdn.inflearn.com/public/course-325496-cover/97d71b00-45ad-401c-a5b0-3048231e1a60?w=420",
+      "link": "https://www.inflearn.com/course/이부일-r릴레오-시즌2-기초?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "마개튜브",
+      "explain": "마개와 함께 업무자동화 도전하기 (RPA UiPath)",
+      "image": "https://cdn.inflearn.com/public/courses/325471/course_cover/5c105144-348c-41dd-9109-df83cb550292/rpa-uipath-magae-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/마개-업무자동화-uipath?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "권태뽕",
+      "explain": "플러터와 장고로 1시간만에 퀴즈 앱/서버 만들기 [무작정 풀스택]",
+      "image": "https://cdn.inflearn.com/public/courses/325095/course_cover/75f893a3-d50a-4f83-824e-5e18be7d364b/ktp-flutter-django-quiz.png?w=420",
+      "link": "https://www.inflearn.com/course/플러터-장고-퀴즈앱-서버-풀스택?attributionToken=ChQxNTk3ODI4NzA3MzkxMzY4MjQyMRANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "velopert(김 민준)",
+      "explain": "React & Express 를 이용한 웹 어플리케이션 개발하기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/react.png?w=420",
+      "link": "https://www.inflearn.com/course/react-강좌-velopert?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "garam park",
+      "explain": "자바 디자인 패턴의 이해 - Gof Design Pattern",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/designpatterns.jpg?w=420",
+      "link": "https://www.inflearn.com/course/자바-디자인-패턴?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "alongside74",
+      "explain": "[C# 초보 강좌] 예제로 배우는 C#",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/c_001.jpg?w=420",
+      "link": "https://www.inflearn.com/course/c-초보-강좌-예제로-배우는-c?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "한빛미디어",
+      "explain": "뇌를 자극하는 윈도우즈 시스템 프로그래밍",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/coding001.jpg?w=420",
+      "link": "https://www.inflearn.com/course/시스템-프로그래밍?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "Seoul Wiz",
+      "explain": "실전 HTML & CSS 강좌",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/web1.png?w=420",
+      "link": "https://www.inflearn.com/course/html-css-강좌?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "이지스퍼블리싱",
+      "explain": "2018 Do it! 안드로이드 앱 프로그래밍",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/2018doit-android.jpg?w=420",
+      "link": "https://www.inflearn.com/course/2018-안드로이드-앱-프로그래밍-오레오?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "유용한IT학습",
+      "explain": "XE3 사이트제작 튜토리얼",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/xe3-1.jpg?w=420",
+      "link": "https://www.inflearn.com/course/xe3-사이트제작?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "유용한IT학습",
+      "explain": "노리섬의 프리미어 강좌 (Adobe Premiere)",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/premiere1.png?w=420",
+      "link": "https://www.inflearn.com/course/노리섬의-프리미어-강좌?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "Adobe Substance 3D",
+      "explain": "ncsoft 캐릭터 아티스트의 실무에 바로 쓰는 다양한 Substance 3D Painter 활용법",
+      "image": "https://cdn.inflearn.com/public/courses/332303/cover/1736556e-9e4f-496a-9c36-705b7c34ce03/332303-eng.jpg?w=420",
+      "link": "https://www.inflearn.com/course/ncsoft-캐릭터-아티스트-substance-3d?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "투씨드 클라쓰",
+      "explain": "[투씨드 클라쓰] Confluence Cloud Runbook - Confluence Cloud의 구성부터 활용까지",
+      "image": "https://cdn.inflearn.com/public/courses/330571/cover/faf22a59-ce6c-4d2c-b805-fb1e6cb95311/330571-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/컨플루언스-클라우드-구성-활용?attributionToken=ChI3MzIzMDk4MTYyMDcxMzY5MDQQDRojcmVjb21tZW5kZV9yZWNvbW1lbmRlXzE3MDI1MjY0MzQwNjYiF3JlY29tbWVuZGVkLWZvci15b3UtY3ZyKAA"
+    },
+    {
+      "name": "개발자Park",
+      "explain": "데이터베이스 SQL 강의",
+      "image": "https://cdn.inflearn.com/public/courses/324971/course_cover/495289db-5bd3-49e4-b388-b322d452a3a5/database-sql-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/database-sql-basic?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "개발자Park",
+      "explain": "1. 웹개발 기초 [HTML, CSS]",
+      "image": "https://cdn.inflearn.com/public/courses/324886/course_cover/998919c5-399f-416c-9f57-c611ae178c51/html-css-basic-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/웹개발-기초-html-css?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "디자인베이스",
+      "explain": "스케치 뚝딱 끝내기! 입문자용 무료 강좌",
+      "image": "https://cdn.inflearn.com/public/courses/324621/course_cover/58c355dc-7c21-43c3-9825-0afa6479ee23/sketch_thumbnail.jpg?w=420",
+      "link": "https://www.inflearn.com/course/스케치-뚝딱-끝내기-입문자용?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "자바라머신러닝",
+      "explain": "자바 머신러닝 weka(웨카) 초급",
+      "image": "https://cdn.inflearn.com/public/courses/324289/course_cover/400354c7-cee9-445f-8ba9-2028b931717a/java-machinelearning-weka-1-eng.jpg?w=420",
+      "link": "https://www.inflearn.com/course/자바-머신러닝-weka?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "리베하얀",
+      "explain": "웹퍼블리셔가 알려주는 실무 웹사이트 따라만들기 Season1",
+      "image": "https://cdn.inflearn.com/public/courses/324224/course_cover/a62ae693-4ed4-49b0-9894-6128971aa33a/inf_001.png?w=420",
+      "link": "https://www.inflearn.com/course/퍼블리셔-웹사이트만들기-리베하얀?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "조코딩",
+      "explain": "코알못도 누구나 쉽게 따라하는 웹, 앱 만들기 (기초부터 실전 활용까지)",
+      "image": "https://cdn.inflearn.com/public/courses/324229/course_cover/146a253b-c106-4999-8606-d72820a90908/%E1%84%8C%E1%85%A9%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC.png?w=420",
+      "link": "https://www.inflearn.com/course/웹-앱-조코딩?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "노마드크리에이터",
+      "explain": "데이터 시각화와 차트분석 기법",
+      "image": "https://cdn.inflearn.com/public/courses/324186/course_cover/8210c08d-1b3e-44e2-842a-53abad9007b4/sjh_DataVisualization.png?w=420",
+      "link": "https://www.inflearn.com/course/데이터-시각화-차트분석?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "코더스하이",
+      "explain": "[애플 공식 교재] 스위프트 퍼즐 1",
+      "image": "https://cdn.inflearn.com/public/courses/324061/course_cover/ebdc9143-bf06-469a-aa14-07a19a9c2831/inflearn-cover.jpg?w=420",
+      "link": "https://www.inflearn.com/course/swift-high-coding1?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "한승우",
+      "explain": "파이썬으로 영화 예매 오픈 알리미 만들기",
+      "image": "https://cdn.inflearn.com/public/courses/324067/course_cover/2f52720f-0a32-4721-8f20-7346d00096ef/hsw_python.png?w=420",
+      "link": "https://www.inflearn.com/course/영화예매-파이썬?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "dapp Campus",
+      "explain": "Ethereum 실전! 초보자를 위한 Lottery Dapp 개발",
+      "image": "https://cdn.inflearn.com/public/courses/324032/course_cover/2ff8fdfa-184f-44f4-b23f-2708d434de37/youtubeChannelArt.png?w=420",
+      "link": "https://www.inflearn.com/course/ethereum-dapp?attributionToken=ChM3MDY4NjAzODg2ODQ5MDEyNzY4EA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "한빛미디어",
+      "explain": "혼자 공부하는 C 언어 저자에게 배우는 C 언어의 모든 것",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/c001.jpg?w=420",
+      "link": "https://www.inflearn.com/course/c언어-온라인강좌?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Seoul Wiz",
+      "explain": "안드로이드 기초부터 창업까지 - 실무 강좌",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/adroid1.png?w=420",
+      "link": "https://www.inflearn.com/course/앱-창업자를-위한-안드로이드-강좌?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Egoing Lee",
+      "explain": "생활코딩 - MySQL",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/opentutorials_mysql.png?w=420",
+      "link": "https://www.inflearn.com/course/mysql-강좌?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Choong Ji Kim",
+      "explain": "아이폰 앱 제작기 – 원트소프트 꼬마마녀 샐리",
+      "image": "https://cdn.inflearn.com/public/course-19889-cover/8bb39c03-cf00-497b-9f09-c319a219bf04?w=420",
+      "link": "https://www.inflearn.com/course/아이폰-앱-제작기-원트소프트-꼬마마녀-샐리?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "김왼손의 왼손코딩",
+      "explain": "[김왼손의 왼손코딩] 1일 1파이썬: 초급자를 위한 파이썬 50제",
+      "image": "https://cdn.inflearn.com/public/courses/325789/cover/5aa75090-0cc5-4582-93d1-076901018688?w=420",
+      "link": "https://www.inflearn.com/course/왼손코딩-파이썬-50제?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "유용한IT학습",
+      "explain": "초보자를 위한 AWS 클라우드 시작하기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/aws.png?w=420",
+      "link": "https://www.inflearn.com/course/aws-클라우드-시작하기?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "totuworld",
+      "explain": "토튜의 따라하면서 게임을 만드는 유니티 NGUI 강좌",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/ngui001.jpg?w=420",
+      "link": "https://www.inflearn.com/course/토튜의-유니티-ngui-강좌?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "런어데이",
+      "explain": "[테디노트] 한 방으로 끝내는 파이썬Python (전자책 포함)",
+      "image": "https://cdn.inflearn.com/public/courses/327591/cover/e7ce21cc-aafb-4a86-a1c4-9e5e2aa3a131/python note_thumnail.png?w=420",
+      "link": "https://www.inflearn.com/course/테디노트-파이썬?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "comacre",
+      "explain": "코딩으로 재미있는 걸 만들어볼까?",
+      "image": "https://cdn.inflearn.com/public/courses/331385/cover/e272c22a-bfd4-47e7-b637-19a7da234e78/331385-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/코딩으로-재밌는걸-만들어볼까?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "김석구",
+      "explain": "갖다써요, 제발...",
+      "image": "https://cdn.inflearn.com/public/courses/330375/cover/7340494a-bc57-4cf4-b03d-a481c2f9e449/330375-eng.png?w=420",
+      "link": "https://www.inflearn.com/course/maplestory-worlds-김석구?attributionToken=ChQxNzY5OTU0NTE5ODM0NjI1NjAwOBANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "하울",
+      "explain": "Firebase 서버를 통한 Android앱 개발 지침서",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/android_firebase.jpg?w=420",
+      "link": "https://www.inflearn.com/course/firebase-android?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "김철현",
+      "explain": "My Location - ionic3 와 Google Map Api 를 활용한 내 위치 정보 찾기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/ionic3-location-1.jpg?w=420",
+      "link": "https://www.inflearn.com/course/my-location-ionic3?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "안경잡이개발자",
+      "explain": "누구나 따라하면서 배우는 JSP 커뮤니티 게시판 만들기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/jsp_board2.png?w=420",
+      "link": "https://www.inflearn.com/course/jsp-게시판?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "한빛미디어",
+      "explain": "이것이 우분투 리눅스다",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/ubuntu.jpg?w=420",
+      "link": "https://www.inflearn.com/course/이것이-우분투-리눅스다?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "Minsuk Heo",
+      "explain": "ELK 스택 (ElasticSearch, Logstash, Kibana) 으로 데이터 분석",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/elkstack.jpg?w=420",
+      "link": "https://www.inflearn.com/course/elk-스택-데이터-분석?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "아이유에디터",
+      "explain": "쉽게 만드는 웹페이지 - IUEditor 사용법",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/iueditor.png?w=420",
+      "link": "https://www.inflearn.com/course/iueditor-사용법?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "garam park",
+      "explain": "Git 과 Redmine 으로 하는 프로젝트 관리",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/gitredmine.jpg?w=420",
+      "link": "https://www.inflearn.com/course/git-redmine-gitflow?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "뭐하는거니?",
+      "explain": "Objective-C 를 이용해 iOS9 아이폰 웹브라우저 만들기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/objective-web.jpg?w=420",
+      "link": "https://www.inflearn.com/course/objective-c-강좌-웹브라우저?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "두들낙서",
+      "explain": "C 와 C++ 을 동시에 배워보자 - 두들낙서의 C/C++",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/ddns_C_3-1.jpg?w=420",
+      "link": "https://www.inflearn.com/course/c언어-두들낙서?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "onecue",
+      "explain": "Django 초보 가이드 - 실습을 통해 알아보는 장고 입문",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/django001.jpg?w=420",
+      "link": "https://www.inflearn.com/course/django-초보-가이드-실습을-통해-알아보는-장고-입문?attributionToken=ChQxNjYwNDY0MjAwNTY4NzQ1MTUzMhANGiNyZWNvbW1lbmRlX3JlY29tbWVuZGVfMTcwMjUyNjQzNDA2NiIXcmVjb21tZW5kZWQtZm9yLXlvdS1jdnIoAA"
+    },
+    {
+      "name": "노마드크리에이터",
+      "explain": "프로젝트를 통해 배우는 파이썬 프로그램",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/sjh_python2.jpg?w=420",
+      "link": "https://www.inflearn.com/course/자판기-프로그램?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "케이디",
+      "explain": "[유니티 3D] FPS 서바이벌 디펜스",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/keidy_unity_fps.jpg?w=420",
+      "link": "https://www.inflearn.com/course/unity-3?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "하울",
+      "explain": "Firebase 서버를 통한 Android앱 HowlTalk 만들기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/android-2.jpg?w=420",
+      "link": "https://www.inflearn.com/course/howltalk-android-채팅앱?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "노근석",
+      "explain": "C++ Let's Make Games",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/C_C.png?w=420",
+      "link": "https://www.inflearn.com/course/c_game-making?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "새차원",
+      "explain": "새차원의 코틀린(Kotlin) 강좌",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/kotlin.png?w=420",
+      "link": "https://www.inflearn.com/course/코틀린-강좌-새차원?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "나우IT",
+      "explain": "자바(JAVA) 언어 기본 강좌",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/javavavava.png?w=420",
+      "link": "https://www.inflearn.com/course/자바java-언어-기본-강좌?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "개발로짜",
+      "explain": "Sencha ExtJS 6 로 웹 어플리케이션 만들기- 실전/응용편",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/extjs.png?w=420",
+      "link": "https://www.inflearn.com/course/sencha-extjs-6-실전응용?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "안경잡이개발자",
+      "explain": "부트스트랩으로 개인 홈페이지 만들기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/bootstrap-05.jpg?w=420",
+      "link": "https://www.inflearn.com/course/부트스트랩으로-개인-홈페이지-만들기?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "안경잡이개발자",
+      "explain": "안드로이드 스튜디오로 안드로이드 앱 만들기",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/androidstudio.png?w=420",
+      "link": "https://www.inflearn.com/course/안드로이드-스튜디오-안드로이드-앱-만들기?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+    {
+      "name": "개발로짜",
+      "explain": "Sencha ExtJS 6 로 화면개발 더이상 고민하지 말자 - 기초편",
+      "image": "https://cdn.inflearn.com/wp-content/uploads/sencha.jpg?w=420",
+      "link": "https://www.inflearn.com/course/sencha-extjs-6-기초?attributionToken=ChMyODQwMjUzMTA0NDE3NDQ0MjQwEA0aI3JlY29tbWVuZGVfcmVjb21tZW5kZV8xNzAyNTI2NDM0MDY2IhdyZWNvbW1lbmRlZC1mb3IteW91LWN2cigA"
+    },
+
+  {
+    "explain": "[re:COMMIT] 타입으로 견고하게 다형성으로 유연하게 - KAIST 전산학부 홍재민",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dfLul_1708571359123/coverImage.png?_=1709009136887",
+    "link": "https://edu.goorm.io/lecture/44039/re-commit-타입으로-견고하게-다형성으로-유연하게-kaist-전산학부-홍재민"
+  },
+  {
+    "explain": "[re:COMMIT] 소프트웨어 장인 정신, 우리가 함께 성장하는 방법 - 류석문 쏘카 CTO",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_RjQwc_1704432103929/coverImage.png?_=1704677236270",
+    "link": "https://edu.goorm.io/lecture/43473/re-commit-소프트웨어-장인-정신-우리가-함께-성장하는-방법-류석문-쏘카-cto"
+  },
+  {
+    "explain": "[개발자리] 깃 던전 공략법",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FBxLh_1692759376108/coverImage.png?_=1704436426279",
+    "link": "https://edu.goorm.io/lecture/41313/개발자리-깃-던전-공략법"
+  },
+  {
+    "explain": "[re:COMMIT] 데이터로 고객을 움직이는 팀이 되어가는 여정 - 이진형 데이터 과학자",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aeajC_1691056174130/coverImage.png?_=1691056176438",
+    "link": "https://edu.goorm.io/lecture/40699/re-commit-데이터로-고객을-움직이는-팀이-되어가는-여정-이진형-데이터-과학자"
+  },
+  {
+    "explain": "[생활코딩] Teachable machine & WEB(javaScript)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_iydFf_1684478576771/coverImage.png?_=1691023829252",
+    "link": "https://edu.goorm.io/lecture/38619/생활코딩-teachable-machine-web-javascript"
+  },
+  {
+    "explain": "[생활코딩] JS로 만드는 AI : TensorFlow.js",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WkccK_1687250304669/coverImage.png?_=1691023744481",
+    "link": "https://edu.goorm.io/lecture/39600/생활코딩-js로-만드는-ai-tensorflow-js"
+  },
+  {
+    "explain": "[생활코딩] Tensorflow 이미지 분류 - CNN (python)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WTHOg_1686904318828/coverImage.png?_=1691023656993",
+    "link": "https://edu.goorm.io/lecture/39534/생활코딩-tensorflow-이미지-분류-cnn-python"
+  },
+  {
+    "explain": "[생활코딩] Tensorflow (python)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cbcfa_1686886718892/coverImage.png?_=1691023589725",
+    "link": "https://edu.goorm.io/lecture/39521/생활코딩-tensorflow-python"
+  },
+  {
+    "explain": "[re:COMMIT] 구글 엔지니어는 이렇게 일한다 - 이복연 번역가",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_mKjwJ_1688352367174/coverImage.png?_=1688352369338",
+    "link": "https://edu.goorm.io/lecture/39750/re-commit-구글-엔지니어는-이렇게-일한다-이복연-번역가"
+  },
+  {
+    "explain": "[생활코딩] Orange3 지도학습",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MoCqz_1687249649059/coverImage.png?_=1689235494877",
+    "link": "https://edu.goorm.io/lecture/39599/생활코딩-orange3-지도학습"
+  },
+  {
+    "explain": "[생활코딩] Orange3",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_yKGVS_1686886944157/coverImage.png?_=1689235465079",
+    "link": "https://edu.goorm.io/lecture/39522/생활코딩-orange3"
+  },
+  {
+    "explain": "[생활코딩] 머신러닝1",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_uzjai_1687235932441/coverImage.png?_=1689235404269",
+    "link": "https://edu.goorm.io/lecture/39588/생활코딩-머신러닝1"
+  },
+  {
+    "explain": "[생활코딩] Django Web Framework",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bcbpk_1686877316073/coverImage.png?_=1689042993445",
+    "link": "https://edu.goorm.io/lecture/39513/생활코딩-django-web-framework"
+  },
+  {
+    "explain": "[생활코딩] p5.js",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ComIC_1686877535861/coverImage.png?_=1689043004942",
+    "link": "https://edu.goorm.io/lecture/39514/생활코딩-p5-js"
+  },
+  {
+    "explain": "[생활코딩] GraphQL",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ltJAk_1687313693639/coverImage.png?_=1687834730175",
+    "link": "https://edu.goorm.io/lecture/39623/생활코딩-graphql"
+  },
+  {
+    "explain": "[생활코딩] TypeScript",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ZKgoQ_1686892413643/coverImage.png?_=1687834679068",
+    "link": "https://edu.goorm.io/lecture/39523/생활코딩-typescript"
+  },
+  {
+    "explain": "[생활코딩] React 2022 개정판",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_RLgFo_1684205616885/coverImage.png?_=1687744654396",
+    "link": "https://edu.goorm.io/lecture/38511/생활코딩-react-2022-개정판"
+  },
+  {
+    "explain": "[개발자리] SwiftUI로 키패드 앱 iOS 독학하기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qbgCC_1686297484360/coverImage.png?_=1687310980456",
+    "link": "https://edu.goorm.io/lecture/39351/개발자리-swiftui로-키패드-앱-ios-독학하기"
+  },
+  {
+    "explain": "[개발자리] iOS App Dev Tutorials 따라해보기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cdHaY_1686297971164/coverImage.png?_=1687310950498",
+    "link": "https://edu.goorm.io/lecture/39352/개발자리-ios-app-dev-tutorials-따라해보기"
+  },
+  {
+    "explain": "[생활코딩] Visual Studio Code에서 git으로 협업하기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_GGMnW_1683602375888/coverImage.png?_=1686274419410",
+    "link": "https://edu.goorm.io/lecture/38196/생활코딩-visual-studio-code에서-git으로-협업하기"
+  },
+  {
+    "explain": "[생활코딩] SQLite",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_pGAVk_1683608127945/coverImage.png?_=1686274613163",
+    "link": "https://edu.goorm.io/lecture/38198/생활코딩-sqlite"
+  },
+  {
+    "explain": "[생활코딩] Flask Web Framework",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_peRaJ_1683858545251/coverImage.png?_=1686274655739",
+    "link": "https://edu.goorm.io/lecture/38381/생활코딩-flask-web-framework"
+  },
+  {
+    "explain": "[개발자리] 클론코딩 - 팁앱",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TGVfn_1682674475147/coverImage.png?_=1683876821612",
+    "link": "https://edu.goorm.io/lecture/38083/개발자리-클론코딩-팁앱"
+  },
+  {
+    "explain": "[개발자리] 하나씩 꺼내먹는 SwiftUI - Level 2",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VRlpy_1682671224337/coverImage.png?_=1686620703916",
+    "link": "https://edu.goorm.io/lecture/38082/개발자리-하나씩-꺼내먹는-swiftui-level-2"
+  },
+  {
+    "explain": "[개발자리] 클론코딩 - 설정앱",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_neDBh_1682664018249/coverImage.png?_=1683876774349",
+    "link": "https://edu.goorm.io/lecture/38080/개발자리-클론코딩-설정앱"
+  },
+  {
+    "explain": "[개발자리] 하나씩 꺼내먹는 SwiftUI - Level 1",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qedfM_1682661626257/coverImage.png?_=1683876728106",
+    "link": "https://edu.goorm.io/lecture/38077/개발자리-하나씩-꺼내먹는-swiftui-level-1"
+  },
+  {
+    "explain": "[개발자리] SwiftUI로 계산기앱 클론 코딩하기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_puVXy_1682071198836/coverImage.png?_=1683876656931",
+    "link": "https://edu.goorm.io/lecture/37989/개발자리-swiftui로-계산기앱-클론-코딩하기"
+  },
+  {
+    "explain": "[개발자리] SwiftUI로 배우는 Swift 문법의 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qqjBb_1682072569139/coverImage.png?_=1683876694687",
+    "link": "https://edu.goorm.io/lecture/37991/개발자리-swiftui로-배우는-swift-문법의-기초"
+  },
+  {
+    "explain": "[개발자리] 스위프트 유치원",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jIJtZ_1682067487092/coverImage.png?_=1683876568828",
+    "link": "https://edu.goorm.io/lecture/37988/개발자리-스위프트-유치원"
+  },
+  {
+    "explain": "[re:COMMIT] 명령어를 이해하는 오픈소스 언어 모델 ‘KoAlpaca’ 개발기 - 이준범 연구원",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ailZk_1685686817640/coverImage.png?_=1685689444620",
+    "link": "https://edu.goorm.io/lecture/39089/re-commit-명령어를-이해하는-오픈소스-언어-모델-koalpaca-개발기-이준범-연구원"
+  },
+  {
+    "explain": "[re:COMMIT] Go 언어, 어디에 써야 할까? - 이호민 개발자",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Naeln_1684388532484/coverImage.png?_=1684388534782",
+    "link": "https://edu.goorm.io/lecture/38585/re-commit-go-언어-어디에-써야-할까-이호민-개발자"
+  },
+  {
+    "explain": "MariaDB 클라이언트 개발, HeidiSQL",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_vdtnk_1678274259658/coverImage.png?_=1680519212877",
+    "link": "https://edu.goorm.io/lecture/36796/mariadb-클라이언트-개발-heidisql"
+  },
+  {
+    "explain": "개발자를 위한 컴퓨터공학1: 혼자 공부하는 컴퓨터 구조 + 운영체제",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WcdCS_1681373842665/coverImage.png?_=1681867124509",
+    "link": "https://edu.goorm.io/lecture/37804/개발자를-위한-컴퓨터공학1-혼자-공부하는-컴퓨터-구조-운영체제"
+  },
+  {
+    "explain": "[re:COMMIT] 기술 부채를 바라보는 다른 시각 - 양수열 소장",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_OsEOC_1679993175444/coverImage.png?_=1679993176787",
+    "link": "https://edu.goorm.io/lecture/37331/re-commit-기술-부채를-바라보는-다른-시각-양수열-소장"
+  },
+  {
+    "explain": "[re:COMMIT] 성공적으로 신기술을 도입하는 법 - 김충섭 CTO",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qEoHA_1679992498426/coverImage.png?_=1679993159436",
+    "link": "https://edu.goorm.io/lecture/37330/re-commit-성공적으로-신기술을-도입하는-법-김충섭-cto"
+  },
+  {
+    "explain": "[re:COMMIT] 성장 : 개발자들의 평생 과제 - 김승호 SRE",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_GyWHp_1669171032636/coverImage.png?_=1680520547328",
+    "link": "https://edu.goorm.io/lecture/34063/re-commit-성장-개발자들의-평생-과제-김승호-sre"
+  },
+  {
+    "explain": "자바스크립트 ES6+ 기초 핵심 문법",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_efQwc_1669435679375/coverImage.png?_=1670209565054",
+    "link": "https://edu.goorm.io/lecture/34097/자바스크립트-es6-기초-핵심-문법"
+  },
+  {
+    "explain": "우리가 함께 하는 파이썬 A.I. 체험",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_XtgYv_1664852081192/coverImage.png?_=1665640502386",
+    "link": "https://edu.goorm.io/lecture/33535/우리가-함께-하는-파이썬-a-i-체험"
+  },
+  {
+    "explain": "라즈베리파이와의 첫만남, OS설치부터 화면 미러링까지!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ZxvLK_1663651235627/coverImage.png?_=1664245312753",
+    "link": "https://edu.goorm.io/lecture/33457/라즈베리파이와의-첫만남-os설치부터-화면-미러링까지"
+  },
+  {
+    "explain": "코딩은 처음이라 with 웹 퍼블리싱",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fdvXl_1658104632420/coverImage.png?_=1660196393334",
+    "link": "https://edu.goorm.io/lecture/32173/코딩은-처음이라-with-웹-퍼블리싱"
+  },
+  {
+    "explain": "생활코딩 - Python 입문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VbGRb_1630072548024/coverImage.png?_=1630931615729",
+    "link": "https://edu.goorm.io/lecture/28708/생활코딩-python-입문"
+  },
+  {
+    "explain": "생활코딩 - Docker 입문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_CgdWi_1630072325129/coverImage.png?_=1630931631325",
+    "link": "https://edu.goorm.io/lecture/28707/생활코딩-docker-입문"
+  },
+  {
+    "explain": "코딩은 처음이라 with 자바",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ypmeP_1646359320544/coverImage.png?_=1654849837639",
+    "link": "https://edu.goorm.io/lecture/30549/코딩은-처음이라-with-자바"
+  },
+  {
+    "explain": "처음 만난 리액트(React) v2",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aiLRR_1651137245666/coverImage.png?_=1651916147188",
+    "link": "https://edu.goorm.io/lecture/31349/처음-만난-리액트-react-v2"
+  },
+  {
+    "explain": "이론부터 쉽게 배우는 IoT",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bHWPg_1647788369016/coverImage.png?_=1648709804539",
+    "link": "https://edu.goorm.io/lecture/30745/이론부터-쉽게-배우는-iot"
+  },
+  {
+    "explain": "입문자를 위한 반응형 웹 기초 강의",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dVZgw_1647570435027/coverImage.png?_=1648185946818",
+    "link": "https://edu.goorm.io/lecture/30724/입문자를-위한-반응형-웹-기초-강의"
+  },
+  {
+    "explain": "왕초보를 위한 HTML&CSS 웹 개발 입문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ZLlQz_1642769471714/coverImage.png?_=1642769473566",
+    "link": "https://edu.goorm.io/lecture/30092/왕초보를-위한-html-css-웹-개발-입문"
+  },
+  {
+    "explain": "제대로 배우는 정혜경 C언어 입문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fjobB_1639041932934/coverImage.png?_=1641201957156",
+    "link": "https://edu.goorm.io/lecture/29775/제대로-배우는-정혜경-c언어-입문"
+  },
+  {
+    "explain": "[EduAtoZ] Python Cos Pro 1급 공개문제 풀이",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_zjIwt_1638891479475/coverImage.png?_=1640670605303",
+    "link": "https://edu.goorm.io/lecture/29705/eduatoz-python-cos-pro-1급-공개문제-풀이"
+  },
+  {
+    "explain": "HTML5 & CSS3 기초 문법 올인원",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aaVXk_1628476577180/coverImage.png?_=1629252998294",
+    "link": "https://edu.goorm.io/lecture/28488/html5-css3-기초-문법-올인원"
+  },
+  {
+    "explain": "[하루10분|Web-App] 생애최초 웹프레임워크 Ruby on Rails",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_eoHih_1628571768734/coverImage.png?_=1629252559685",
+    "link": "https://edu.goorm.io/lecture/28494/하루10분-web-app-생애최초-웹프레임워크-ruby-on-rails"
+  },
+  {
+    "explain": "퇴근후 텐서플로: Basic",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lOaUB_1624900658373/coverImage.png?_=1625709307309",
+    "link": "https://edu.goorm.io/lecture/28058/퇴근후-텐서플로-basic"
+  },
+  {
+    "explain": "입문자를 위한 CSS 기초 강의",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jymAA_1623812444299/coverImage.png?_=1625101417682",
+    "link": "https://edu.goorm.io/lecture/27976/입문자를-위한-css-기초-강의"
+  },
+  {
+    "explain": "입문자를 위한 HTML 기초 강의",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DJBoN_1623751607493/coverImage.png?_=1625048740169",
+    "link": "https://edu.goorm.io/lecture/27971/입문자를-위한-html-기초-강의"
+  },
+  {
+    "explain": "Vuetify Admin Template 만들기 - 기본편",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DAhiP_1623649223889/coverImage.png?_=1623649225966",
+    "link": "https://edu.goorm.io/lecture/27955/vuetify-admin-template-만들기-기본편"
+  },
+  {
+    "explain": "Jupyter Notebook으로 시작하는 Python",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IbIfA_1616308029312/coverImage.png?_=1616553872893",
+    "link": "https://edu.goorm.io/lecture/26535/jupyter-notebook으로-시작하는-python"
+  },
+  {
+    "explain": "[저자 직강] Do it! HTML/CSS/JS 웹 표준의 정석",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_mwrnY_1616409179347/coverImage.png?_=1616409181480",
+    "link": "https://edu.goorm.io/lecture/26571/저자-직강-do-it-html-css-js-웹-표준의-정석"
+  },
+  {
+    "explain": "가볍게 시작하는 C언어, 라이트 C",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ggbPH_1611391194451/coverImage.png?_=1615883421534",
+    "link": "https://edu.goorm.io/lecture/25515/가볍게-시작하는-c언어-라이트-c"
+  },
+  {
+    "explain": "누구나 블로그 개발 할 수 있다! React 기반 Gatsby로 기술 블로그 개발하기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WEpLq_1614184797797/coverImage.png?_=1615198840334",
+    "link": "https://edu.goorm.io/lecture/25881/누구나-블로그-개발-할-수-있다-react-기반-gatsby로-기술-블로그-개발하기"
+  },
+  {
+    "explain": "모의해킹 취업 준비하는데 알아두면 좋은 것",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TEHay_1614169064158/coverImage.png?_=1614322418135",
+    "link": "https://edu.goorm.io/lecture/25879/모의해킹-취업-준비하는데-알아두면-좋은-것"
+  },
+  {
+    "explain": "[하루 10분|Web Project] HTML/JS/CSS로 나만의 MBTI 사이트 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PtpKm_1612850691886/coverImage.png?_=1613986405320",
+    "link": "https://edu.goorm.io/lecture/25652/하루-10분-web-project-html-js-css로-나만의-mbti-사이트-만들기"
+  },
+  {
+    "explain": "[하루 10분|C++] 누구나 쉽게 배우는 C++ 프로그래밍 입문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qxlDW_1609576318320/coverImage.png?_=1612856658637",
+    "link": "https://edu.goorm.io/lecture/25274/하루-10분-c-누구나-쉽게-배우는-c-프로그래밍-입문"
+  },
+  {
+    "explain": "HAL, CubeMX, TrueSTUDIO를 이용한 STM32F4 따라하기 무료 강좌",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_QXagr_1610803915574/coverImage.png?_=1611728469370",
+    "link": "https://edu.goorm.io/lecture/25454/hal-cubemx-truestudio를-이용한-stm32f4-따라하기-무료-강좌"
+  },
+  {
+    "explain": "CentOS 7 설치부터 웹서버 구축까지",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_AsRDY_1608045525904/coverImage.png?_=1609895288734",
+    "link": "https://edu.goorm.io/lecture/25119/centos-7-설치부터-웹서버-구축까지"
+  },
+  {
+    "explain": "파이썬 웹 스크래핑, 제가 가진 모든 비법을 알려드리겠습니다.",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_QsdEr_1607208405012/coverImage.png?_=1608022821110",
+    "link": "https://edu.goorm.io/lecture/24961/파이썬-웹-스크래핑-제가-가진-모든-비법을-알려드리겠습니다"
+  },
+  {
+    "explain": "코딩 입문 - 하다 보니 알게 되는 자바스크립트",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dkail_1607242175561/coverImage.png?_=1607936176253",
+    "link": "https://edu.goorm.io/lecture/24963/코딩-입문-하다-보니-알게-되는-자바스크립트"
+  },
+  {
+    "explain": "2021 온라인 코딩 파티 - 텍스트 코딩 용사가 되자!!!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_EaCWa_1606319876519/coverImage.png?_=1627993358809",
+    "link": "https://edu.goorm.io/lecture/24789/2021-온라인-코딩-파티-텍스트-코딩-용사가-되자"
+  },
+  {
+    "explain": "2021 온라인 코딩 파티 - 파이썬 데이터 분석 및 시각화!!!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qgakT_1606319933333/coverImage.png?_=1627993018917",
+    "link": "https://edu.goorm.io/lecture/24790/2021-온라인-코딩-파티-파이썬-데이터-분석-및-시각화"
+  },
+  {
+    "explain": "2021 온라인 코딩 파티 - 둘이서 코딩, 거북선과 척후선!!!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_byxFa_1606319953253/coverImage.png?_=1627993188754",
+    "link": "https://edu.goorm.io/lecture/24791/2021-온라인-코딩-파티-둘이서-코딩-거북선과-척후선"
+  },
+  {
+    "explain": "2021 온라인 코딩 파티 - 코딩랜드를 구하라!!!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_EmLwV_1606320005890/coverImage.png?_=1627993066543",
+    "link": "https://edu.goorm.io/lecture/24792/2021-온라인-코딩-파티-코딩랜드를-구하라"
+  },
+  {
+    "explain": "2021 온라인 코딩 파티 - 도전 틱택토!!!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cXaTu_1606320024642/coverImage.png?_=1627993110251",
+    "link": "https://edu.goorm.io/lecture/24793/2021-온라인-코딩-파티-도전-틱택토"
+  },
+  {
+    "explain": "스프링부트 개념정리",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PVJPK_1605093580647/coverImage.png?_=1605699115285",
+    "link": "https://edu.goorm.io/lecture/24604/스프링부트-개념정리"
+  },
+  {
+    "explain": "스프링부트 나만의 블로그 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_swOIq_1605093610832/coverImage.png?_=1605699126599",
+    "link": "https://edu.goorm.io/lecture/24605/스프링부트-나만의-블로그-만들기"
+  },
+  {
+    "explain": "스프링부트 시큐리티 특강",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Nzfhr_1605093622970/coverImage.png?_=1605699133324",
+    "link": "https://edu.goorm.io/lecture/24606/스프링부트-시큐리티-특강"
+  },
+  {
+    "explain": "생산성 UP! R과 파이썬으로 하는 문서 자동화",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bQSgO_1604382705949/coverImage.png?_=1604382706871",
+    "link": "https://edu.goorm.io/lecture/24475/생산성-up-r과-파이썬으로-하는-문서-자동화"
+  },
+  {
+    "explain": "가위바위보 게임을 만들며 맛보는 파이썬3",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Ynmhp_1604495492090/coverImage.png?_=1604581473348",
+    "link": "https://edu.goorm.io/lecture/24499/가위바위보-게임을-만들며-맛보는-파이썬3"
+  },
+  {
+    "explain": "현직 개발자가 알려주는 안드로이드 코틀린 앱 제작",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_OgamN_1599803958714/coverImage.png?_=1600426039791",
+    "link": "https://edu.goorm.io/lecture/23399/현직-개발자가-알려주는-안드로이드-코틀린-앱-제작"
+  },
+  {
+    "explain": "현직 개발자가 알려주는 자바 기초 문법",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aalpb_1599803928219/coverImage.png?_=1600425638212",
+    "link": "https://edu.goorm.io/lecture/23398/현직-개발자가-알려주는-자바-기초-문법"
+  },
+  {
+    "explain": "[온라인 SW 아카데미] 너도 할 수 있어! AI 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_JZjDe_1597028483866/coverImage.png?_=1631690489681",
+    "link": "https://edu.goorm.io/lecture/22325/온라인-sw-아카데미-너도-할-수-있어-ai-만들기"
+  },
+  {
+    "explain": "[온라인 SW 아카데미] 컴린이도 화이트해커가 될 수 있다?!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_OlIPH_1597122097038/coverImage.png?_=1631690502197",
+    "link": "https://edu.goorm.io/lecture/22341/온라인-sw-아카데미-컴린이도-화이트해커가-될-수-있다"
+  },
+  {
+    "explain": "[온라인 SW 아카데미] 유니티로 배우는 게임 프로그래밍 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_leyhr_1597122697154/coverImage.png?_=1631690517985",
+    "link": "https://edu.goorm.io/lecture/22342/온라인-sw-아카데미-유니티로-배우는-게임-프로그래밍-기초"
+  },
+  {
+    "explain": "[온라인 SW 아카데미] 스마트폰 센서 제어를 위한 앱(app) 개발",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ITDsR_1597129160575/coverImage.png?_=1631690546202",
+    "link": "https://edu.goorm.io/lecture/22344/온라인-sw-아카데미-스마트폰-센서-제어를-위한-앱-app-개발"
+  },
+  {
+    "explain": "파이썬으로 배우는 알고리즘 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_biMLR_1598105895063/coverImage.png?_=1598935388475",
+    "link": "https://edu.goorm.io/lecture/22654/파이썬으로-배우는-알고리즘-기초"
+  },
+  {
+    "explain": "한 눈에 보는 타입스크립트",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Hlqcp_1595917474039/coverImage.jpg?_=1596115562967",
+    "link": "https://edu.goorm.io/lecture/22106/한-눈에-보는-타입스크립트"
+  },
+  {
+    "explain": "[애플 공식 교재] 스위프트 퍼즐 2",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hieig_1595233653811/coverImage.png?_=1605591412381",
+    "link": "https://edu.goorm.io/lecture/22013/애플-공식-교재-스위프트-퍼즐-2"
+  },
+  {
+    "explain": "[애플 공식 교재] 스위프트 퍼즐 1",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_AYBwk_1594958220567/coverImage.png?_=1605591398356",
+    "link": "https://edu.goorm.io/lecture/21987/애플-공식-교재-스위프트-퍼즐-1"
+  },
+  {
+    "explain": "코린아, 코딩하자! with 파이썬",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ExUkz_1594871544775/coverImage.png?_=1595223190302",
+    "link": "https://edu.goorm.io/lecture/21975/코린아-코딩하자-with-파이썬"
+  },
+  {
+    "explain": "무료 파이썬 활용편2 - GUI 프로그래밍",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FdmMF_1593849249695/coverImage.png?_=1594799516844",
+    "link": "https://edu.goorm.io/lecture/21780/무료-파이썬-활용편2-gui-프로그래밍"
+  },
+  {
+    "explain": "아두이노 시뮬레이터  - 팅커캐드 서킷",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kSKqc_1593769565016/coverImage.png?_=1594799577865",
+    "link": "https://edu.goorm.io/lecture/21770/아두이노-시뮬레이터-팅커캐드-서킷"
+  },
+  {
+    "explain": "한 눈에 읽는 루비 온 레일즈",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cWltG_1569483476137/coverImage.png?_=1594205541861",
+    "link": "https://edu.goorm.io/lecture/16335/한-눈에-읽는-루비-온-레일즈"
+  },
+  {
+    "explain": "동시에 배우는 C와 C++",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_xcaYw_1593398547105/coverImage.png?_=1593590498267",
+    "link": "https://edu.goorm.io/lecture/21611/동시에-배우는-c와-c"
+  },
+  {
+    "explain": "이부일의 R릴레오 기초편",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VVqTD_1591677680282/coverImage.png?_=1593076745343",
+    "link": "https://edu.goorm.io/lecture/21022/이부일의-r릴레오-기초편"
+  },
+  {
+    "explain": "코딩셰프의 Flutter 순한맛",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kAkvh_1592198702406/coverImage.png?_=1592543726598",
+    "link": "https://edu.goorm.io/lecture/21167/코딩셰프의-flutter-순한맛"
+  },
+  {
+    "explain": "컴퓨터 일반론",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_JkfiH_1559053765678/coverImage.png?_=1592379557695",
+    "link": "https://edu.goorm.io/lecture/13426/컴퓨터-일반론"
+  },
+  {
+    "explain": "[저자 직강] Do it! 딥러닝 입문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MRltO_1592203745565/coverImage.png?_=1592207367442",
+    "link": "https://edu.goorm.io/lecture/21177/저자-직강-do-it-딥러닝-입문"
+  },
+  {
+    "explain": "무료 파이썬 활용편1 - 추억의 오락실 게임 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fjilg_1591652745786/coverImage.png?_=1591682927296",
+    "link": "https://edu.goorm.io/lecture/21001/무료-파이썬-활용편1-추억의-오락실-게임-만들기"
+  },
+  {
+    "explain": "디스코드 자바스크립트 튜토리얼 - 이전버전",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dXdxs_1591092135926/coverImage.png?_=1591700399957",
+    "link": "https://edu.goorm.io/lecture/20853/디스코드-자바스크립트-튜토리얼-이전버전"
+  },
+  {
+    "explain": "따라하며 배우는 데노(DENO)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_StjiI_1590492374181/coverImage.png?_=1590650323122",
+    "link": "https://edu.goorm.io/lecture/20663/따라하며-배우는-데노-deno"
+  },
+  {
+    "explain": "텐서플로2로 배우는 딥러닝",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_HsxsJ_1590582038991/coverImage.png?_=1590582041056",
+    "link": "https://edu.goorm.io/lecture/20687/텐서플로2로-배우는-딥러닝"
+  },
+  {
+    "explain": "딥러닝 이론 및 파이썬 실습",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_eSrxS_1590574335900/coverImage.png?_=1590574338209",
+    "link": "https://edu.goorm.io/lecture/20671/딥러닝-이론-및-파이썬-실습"
+  },
+  {
+    "explain": "[번역판] CLEAN CODE JAVASCRIPT",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jHjGl_1587123022992/coverImage.png?_=1587634904443",
+    "link": "https://edu.goorm.io/lecture/20119/번역판-clean-code-javascript"
+  },
+  {
+    "explain": "[30분 요약 시리즈 시즌2] Python 활용편",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fkgsv_1588041945377/coverImage.png?_=1589440988118",
+    "link": "https://edu.goorm.io/lecture/20254/30분-요약-시리즈-시즌2-python-활용편"
+  },
+  {
+    "explain": "COS PRO 1급 기출문제 - Python",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cPUpl_1575970544567/coverImage.png?_=1578912428152",
+    "link": "https://edu.goorm.io/lecture/17299/cos-pro-1급-기출문제-python"
+  },
+  {
+    "explain": "COS PRO 1급 기출문제 - C++",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VKapZ_1575970588403/coverImage.png?_=1578912414347",
+    "link": "https://edu.goorm.io/lecture/17300/cos-pro-1급-기출문제-c"
+  },
+  {
+    "explain": "COS PRO 1급 기출문제 - Java",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aCmld_1575970654710/coverImage.png?_=1578912379562",
+    "link": "https://edu.goorm.io/lecture/17301/cos-pro-1급-기출문제-java"
+  },
+  {
+    "explain": "COS PRO 1급 기출문제 - C언어",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jcuZS_1575970467786/coverImage.png?_=1578912440902",
+    "link": "https://edu.goorm.io/lecture/17298/cos-pro-1급-기출문제-c언어"
+  },
+  {
+    "explain": "5일 만에 200만원 버는 웹과 앱 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ERBMF_1587630316106/coverImage.jpg?_=1587635150953",
+    "link": "https://edu.goorm.io/lecture/20213/5일-만에-200만원-버는-웹과-앱-만들기"
+  },
+  {
+    "explain": "[따라하며 배우는 노드&리액트] 챗봇 사이트 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fdEeI_1586759450749/coverImage.png?_=1605521621823",
+    "link": "https://edu.goorm.io/lecture/20020/따라하며-배우는-노드-리액트-챗봇-사이트-만들기"
+  },
+  {
+    "explain": "친절한 통계학 feat. R",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aVHcY_1587095055836/coverImage.png?_=1604381908661",
+    "link": "https://edu.goorm.io/lecture/20108/친절한-통계학-feat-r"
+  },
+  {
+    "explain": "[따라하며 배우는 노드&리액트] 영화 사이트 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kcpug_1586759426640/coverImage.png?_=1605521603533",
+    "link": "https://edu.goorm.io/lecture/20019/따라하며-배우는-노드-리액트-영화-사이트-만들기"
+  },
+  {
+    "explain": "파닥파닥 Flutter (빠르고 가볍게 Flutter 흔들기)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BaQky_1576810789651/coverImage.png?_=1586830302691",
+    "link": "https://edu.goorm.io/lecture/17450/파닥파닥-flutter-빠르고-가볍게-flutter-흔들기"
+  },
+  {
+    "explain": "무료 파이썬 기본편 - 6시간 뒤면 나도 개발자",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FTeqU_1586646885588/coverImage.png?_=1587030858891",
+    "link": "https://edu.goorm.io/lecture/19917/무료-파이썬-기본편-6시간-뒤면-나도-개발자"
+  },
+  {
+    "explain": "[무작정 풀스택] 플러터와 장고로 1시간 만에 퀴즈앱/서버 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fdoaF_1586759985201/coverImage.png?_=1586760024922",
+    "link": "https://edu.goorm.io/lecture/20021/무작정-풀스택-플러터와-장고로-1시간-만에-퀴즈앱-서버-만들기"
+  },
+  {
+    "explain": "쉽게 만드는 라라벨 뷰 채팅",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BkySe_1584525096813/coverImage.png?_=1584703612343",
+    "link": "https://edu.goorm.io/lecture/18959/쉽게-만드는-라라벨-뷰-채팅"
+  },
+  {
+    "explain": "한 눈에 읽는 자바 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hyaxe_1585878202025/coverImage.png?_=1585878215508",
+    "link": "https://edu.goorm.io/lecture/19448/한-눈에-읽는-자바-기초"
+  },
+  {
+    "explain": "딥러닝 강좌할껀데, 실습만 합니다",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lmcru_1585733782449/coverImage.png?_=1585733784286",
+    "link": "https://edu.goorm.io/lecture/19373/딥러닝-강좌할껀데-실습만-합니다"
+  },
+  {
+    "explain": "[무작정 플러터] Flutter + Firebase 넷플릭스UI 클론 코딩",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_EJyBk_1585302731454/coverImage.png?_=1585792440082",
+    "link": "https://edu.goorm.io/lecture/19172/무작정-플러터-flutter-firebase-넷플릭스ui-클론-코딩"
+  },
+  {
+    "explain": "쉽게 배우는 Vue.js 2 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_CHgqS_1584525086837/coverImage.png?_=1585305209450",
+    "link": "https://edu.goorm.io/lecture/18958/쉽게-배우는-vue-js-2-기초"
+  },
+  {
+    "explain": "따라하면서 배우는 리눅스 고급",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aXSat_1584503810691/coverImage.png?_=1584503812413",
+    "link": "https://edu.goorm.io/lecture/18950/따라하면서-배우는-리눅스-고급"
+  },
+  {
+    "explain": "따라하면서 배우는 리눅스 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ijHzA_1584070813778/coverImage.png?_=1584503521381",
+    "link": "https://edu.goorm.io/lecture/18808/따라하면서-배우는-리눅스-기초"
+  },
+  {
+    "explain": "MATLAB처럼 쓰는 PYTHON",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Apdxf_1584791632962/coverImage.png?_=1584948589189",
+    "link": "https://edu.goorm.io/lecture/19064/matlab처럼-쓰는-python"
+  },
+  {
+    "explain": "쉽게 배우는 라라벨 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Qmpcj_1584525067015/coverImage.png?_=1584702985696",
+    "link": "https://edu.goorm.io/lecture/18957/쉽게-배우는-라라벨-기초"
+  },
+  {
+    "explain": "SELECT ALL FROM SQL",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cosdg_1584163338682/coverImage.png?_=1584588042881",
+    "link": "https://edu.goorm.io/lecture/18815/select-all-from-sql"
+  },
+  {
+    "explain": "한 눈에 읽는 파이썬3 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_pRaAr_1581916229919/coverImage.png?_=1582095282954",
+    "link": "https://edu.goorm.io/lecture/17902/한-눈에-읽는-파이썬3-기초"
+  },
+  {
+    "explain": "[따라하며 배우는 노드&리액트] 유튜브 사이트 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MpWTQ_1581490566243/coverImage.png?_=1581490567854",
+    "link": "https://edu.goorm.io/lecture/17853/따라하며-배우는-노드-리액트-유튜브-사이트-만들기"
+  },
+  {
+    "explain": "[따라하며 배우는 노드&리액트] Boiler-Plate 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ldsSd_1581515078921/coverImage.png?_=1581583355960",
+    "link": "https://edu.goorm.io/lecture/17855/따라하며-배우는-노드-리액트-boiler-plate-만들기"
+  },
+  {
+    "explain": "R프로그래밍 기초 다지기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jQeUN_1581423666239/coverImage.png?_=1581423668001",
+    "link": "https://edu.goorm.io/lecture/17848/r프로그래밍-기초-다지기"
+  },
+  {
+    "explain": "나도 AWS에 서버 구축해보자🐶",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_gjZdE_1581313030136/coverImage.png?_=1581337666318",
+    "link": "https://edu.goorm.io/lecture/17834/나도-aws에-서버-구축해보자"
+  },
+  {
+    "explain": "COS PRO 2급 기출문제 - Python",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aPlZg_1575074556037/coverImage.png?_=1578912470599",
+    "link": "https://edu.goorm.io/lecture/17033/cos-pro-2급-기출문제-python"
+  },
+  {
+    "explain": "COS PRO 2급 기출문제 - Java",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lYtbk_1575522578427/coverImage.png?_=1578912451616",
+    "link": "https://edu.goorm.io/lecture/17167/cos-pro-2급-기출문제-java"
+  },
+  {
+    "explain": "COS PRO 2급 기출문제 - C++",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bJpMC_1575522411683/coverImage.png?_=1578912460214",
+    "link": "https://edu.goorm.io/lecture/17165/cos-pro-2급-기출문제-c"
+  },
+  {
+    "explain": "COS PRO 2급 기출문제 - C언어",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_mzyhk_1573875034818/coverImage.png?_=1578912482042",
+    "link": "https://edu.goorm.io/lecture/16921/cos-pro-2급-기출문제-c언어"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - JAVA 객체 지향 프로그래밍",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fTxld_1573632340074/coverImage.png?_=1576735228700",
+    "link": "https://edu.goorm.io/lecture/16910/바로실습-생활코딩-java-객체-지향-프로그래밍"
+  },
+  {
+    "explain": "가장 핫한 FE 라이브러리🔥, React 가지고 놀아보기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dkTwk_1570674578563/coverImage.png?_=1574932256154",
+    "link": "https://edu.goorm.io/lecture/16422/가장-핫한-fe-라이브러리-react-가지고-놀아보기"
+  },
+  {
+    "explain": "영화 예매 사이트 만들기: 코딩편",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PKcla_1574059454815/coverImage.png?_=1574989667777",
+    "link": "https://edu.goorm.io/lecture/16943/영화-예매-사이트-만들기-코딩편"
+  },
+  {
+    "explain": "영화 예매 사이트 만들기: 디자인편",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_OesFg_1574151553693/coverImage.png?_=1574989651590",
+    "link": "https://edu.goorm.io/lecture/16948/영화-예매-사이트-만들기-디자인편"
+  },
+  {
+    "explain": "센치한 개발자의 swift: ios app 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jSjee_1564122867955/coverImage.png?_=1564478243464",
+    "link": "https://edu.goorm.io/lecture/15173/센치한-개발자의-swift-ios-app-만들기"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - JAVA method",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_XBucP_1573632327418/coverImage.png?_=1575361247042",
+    "link": "https://edu.goorm.io/lecture/16909/바로실습-생활코딩-java-method"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - JAVA 제어문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_uLRQd_1573632316054/coverImage.png?_=1573704180239",
+    "link": "https://edu.goorm.io/lecture/16908/바로실습-생활코딩-java-제어문"
+  },
+  {
+    "explain": "[웹퍼블리싱 실습] 반응형 사이트 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fzzkf_1574059438036/coverImage.png?_=1574989683918",
+    "link": "https://edu.goorm.io/lecture/16942/웹퍼블리싱-실습-반응형-사이트-만들기"
+  },
+  {
+    "explain": "[웹퍼블리싱 실습] 웹 표준 사이트 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_sNGpx_1574059418279/coverImage.png?_=1574989703077",
+    "link": "https://edu.goorm.io/lecture/16941/웹퍼블리싱-실습-웹-표준-사이트-만들기"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - JAVA1",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fhtLO_1570759593557/coverImage.png?_=1570783721965",
+    "link": "https://edu.goorm.io/lecture/16448/바로실습-생활코딩-java1"
+  },
+  {
+    "explain": "2022 30분 요약 강좌 시즌 1 HTML, CSS, JS, Python, Bootstrap, Linux",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ikufa_1569991110304/coverImage.png?_=1570683915694",
+    "link": "https://edu.goorm.io/lecture/16385/2022-30분-요약-강좌-시즌-1-html-css-js-python-bootstrap-linux"
+  },
+  {
+    "explain": "하울의 안드로이드 인스타그램 앱 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_alulf_1568022010939/coverImage.png?_=1568626748440",
+    "link": "https://edu.goorm.io/lecture/16116/하울의-안드로이드-인스타그램-앱-만들기"
+  },
+  {
+    "explain": "코틀린으로 만드는 스프링부트",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TRXZU_1567158282385/coverImage.png?_=1567408260350",
+    "link": "https://edu.goorm.io/lecture/15881/코틀린으로-만드는-스프링부트"
+  },
+  {
+    "explain": "현직개발자가 알려주는 안드로이드 앱 개발",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dcbWj_1566461795388/coverImage.png?_=1600420431116",
+    "link": "https://edu.goorm.io/lecture/15564/현직개발자가-알려주는-안드로이드-앱-개발"
+  },
+  {
+    "explain": "웹 서비스 해킹을 위한 버프스위트 완벽 활용 가이드",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_qdnGQ_1566264558924/coverImage.png?_=1566365516546",
+    "link": "https://edu.goorm.io/lecture/15535/웹-서비스-해킹을-위한-버프스위트-완벽-활용-가이드"
+  },
+  {
+    "explain": "Shiny 그리고 시각화 R Go! 하자!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VOmMw_1567147138174/coverImage.png?_=1621233835877",
+    "link": "https://edu.goorm.io/lecture/15875/shiny-그리고-시각화-r-go-하자"
+  },
+  {
+    "explain": "생활코딩 - Oracle Database",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_VcbKa_1566355130322/coverImage.png?_=1566524783448",
+    "link": "https://edu.goorm.io/lecture/15550/생활코딩-oracle-database"
+  },
+  {
+    "explain": "데이터 시각화와 차트분석 기법",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cywif_1566442799615/coverImage.png?_=1566443076901",
+    "link": "https://edu.goorm.io/lecture/15563/데이터-시각화와-차트분석-기법"
+  },
+  {
+    "explain": "웹 게임을 만들며 배우는 Vue",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bzoag_1566206272680/coverImage.png?_=1566206272969",
+    "link": "https://edu.goorm.io/lecture/15523/웹-게임을-만들며-배우는-vue"
+  },
+  {
+    "explain": "SwiftUI 개념 익히기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hxUNh_1565677676590/coverImage.png?_=1577081203259",
+    "link": "https://edu.goorm.io/lecture/15378/swiftui-개념-익히기"
+  },
+  {
+    "explain": "누구나 쉽게 배우는 코딩 기초와 웹/앱 프로그래밍",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_tdyhj_1565087382328/coverImage.png?_=1565766108384",
+    "link": "https://edu.goorm.io/lecture/15287/누구나-쉽게-배우는-코딩-기초와-웹-앱-프로그래밍"
+  },
+  {
+    "explain": "센치한 개발자의 안드로이드 스튜디오 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_xsqYh_1564122794617/coverImage.png?_=1564463296293",
+    "link": "https://edu.goorm.io/lecture/15171/센치한-개발자의-안드로이드-스튜디오-기초"
+  },
+  {
+    "explain": "센치한 개발자의 자바 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_nxaOf_1564122748023/coverImage.png?_=1564463090722",
+    "link": "https://edu.goorm.io/lecture/15170/센치한-개발자의-자바-기초"
+  },
+  {
+    "explain": "IT보안을 위한 와이어샤크 패킷 분석",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_NpxFF_1563821127366/coverImage.png?_=1563955791366",
+    "link": "https://edu.goorm.io/lecture/15125/it보안을-위한-와이어샤크-패킷-분석"
+  },
+  {
+    "explain": "부담 없이 쉽고 편하게, 자바스크립트 기초 정리!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Pltjs_1562922996590/coverImage.png?_=1563261596993",
+    "link": "https://edu.goorm.io/lecture/14938/부담-없이-쉽고-편하게-자바스크립트-기초-정리"
+  },
+  {
+    "explain": "생활코딩 - WEB7: Login with Facebook On Passport(Facebook Login)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Zlker_1562294309236/coverImage.png?_=1562639301754",
+    "link": "https://edu.goorm.io/lecture/14674/생활코딩-web7-login-with-facebook-on-passport-facebook-login"
+  },
+  {
+    "explain": "생활코딩 - WEB7: Login with Google On Passport (Google Login)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_brfFE_1562294350092/coverImage.png?_=1562639330389",
+    "link": "https://edu.goorm.io/lecture/14675/생활코딩-web7-login-with-google-on-passport-google-login"
+  },
+  {
+    "explain": "생활코딩 - WEB6: Multi User on Passport (다중 사용자)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_AXaZm_1562205447562/coverImage.png?_=1562639202019",
+    "link": "https://edu.goorm.io/lecture/14644/생활코딩-web6-multi-user-on-passport-다중-사용자"
+  },
+  {
+    "explain": "생활코딩 - WEB5: Express Passport.js",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_SPrfc_1562205416687/coverImage.png?_=1573708567801",
+    "link": "https://edu.goorm.io/lecture/14643/생활코딩-web5-express-passport-js"
+  },
+  {
+    "explain": "생활코딩 - WEB4: Express Session & Auth (세션과 인증)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bUvdj_1562205380405/coverImage.png?_=1573708543209",
+    "link": "https://edu.goorm.io/lecture/14642/생활코딩-web4-express-session-auth-세션과-인증"
+  },
+  {
+    "explain": "인공지능 R GO! 하자!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cVYZR_1562049674720/coverImage.png?_=1621233843845",
+    "link": "https://edu.goorm.io/lecture/14631/인공지능-r-go-하자"
+  },
+  {
+    "explain": "생활코딩 - Node.js: 쿠키와 인증",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ljeJP_1562205127709/coverImage.png?_=1573708526238",
+    "link": "https://edu.goorm.io/lecture/14641/생활코딩-node-js-쿠키와-인증"
+  },
+  {
+    "explain": "생활코딩 - WEB3: Google Login",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bFgJD_1562130881092/coverImage.png?_=1562142920926",
+    "link": "https://edu.goorm.io/lecture/14634/생활코딩-web3-google-login"
+  },
+  {
+    "explain": "생활코딩 - WEB3: Facebook Login",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_etmoj_1562130862670/coverImage.png?_=1562142844909",
+    "link": "https://edu.goorm.io/lecture/14633/생활코딩-web3-facebook-login"
+  },
+  {
+    "explain": "생활코딩 - WEB3: Ajax",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_olZpk_1562130824241/coverImage.png?_=1562142650241",
+    "link": "https://edu.goorm.io/lecture/14632/생활코딩-web3-ajax"
+  },
+  {
+    "explain": "웹 게임을 만들며 배우는 React(리액트)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_RlOaq_1561605225581/coverImage.png?_=1561716241066",
+    "link": "https://edu.goorm.io/lecture/14562/웹-게임을-만들며-배우는-react-리액트"
+  },
+  {
+    "explain": "프로젝트를 통해 배우는 파이썬 프로그래밍",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cwVUi_1561619659278/coverImage.png?_=1561693621325",
+    "link": "https://edu.goorm.io/lecture/14588/프로젝트를-통해-배우는-파이썬-프로그래밍"
+  },
+  {
+    "explain": "생활코딩 - 관계형 데이터 모델링",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_chhSo_1561109425758/coverImage.png?_=1562121635521",
+    "link": "https://edu.goorm.io/lecture/14442/생활코딩-관계형-데이터-모델링"
+  },
+  {
+    "explain": "생활코딩 - SQL JOIN",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fcyLp_1561109414223/coverImage.png?_=1562121649504",
+    "link": "https://edu.goorm.io/lecture/14441/생활코딩-sql-join"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - JavaScript Immutability",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IysIs_1561109392607/coverImage.png?_=1562121674976",
+    "link": "https://edu.goorm.io/lecture/14439/바로실습-생활코딩-javascript-immutability"
+  },
+  {
+    "explain": "생활코딩 - Redux",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_JkLil_1561109404287/coverImage.png?_=1562121662497",
+    "link": "https://edu.goorm.io/lecture/14440/생활코딩-redux"
+  },
+  {
+    "explain": "처음 만난 AWS",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_pLXjl_1556187523179/coverImage.png?_=1556589225150",
+    "link": "https://edu.goorm.io/lecture/12945/처음-만난-aws"
+  },
+  {
+    "explain": "처음 만난 React(리액트)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_rRgCo_1556278616000/coverImage.png?_=1560753644957",
+    "link": "https://edu.goorm.io/lecture/12976/처음-만난-react-리액트"
+  },
+  {
+    "explain": "안드로이드 + 파이어베이스 SNS앱 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_rEeFb_1559528001963/coverImage.png?_=1559528002194",
+    "link": "https://edu.goorm.io/lecture/13523/안드로이드-파이어베이스-sns앱-만들기"
+  },
+  {
+    "explain": "처음 시작하는 C언어",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_AxLjY_1558611564110/coverImage.png?_=1558664011178",
+    "link": "https://edu.goorm.io/lecture/13352/처음-시작하는-c언어"
+  },
+  {
+    "explain": "겜팔이의 안드로이드 세뇌교실: 인★그램 개발부터 배포까지",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_egUyY_1558342518464/coverImage.png?_=1558580744811",
+    "link": "https://edu.goorm.io/lecture/13313/겜팔이의-안드로이드-세뇌교실-인-그램-개발부터-배포까지"
+  },
+  {
+    "explain": "2019 겜팔이의 노릇노릇 파이어베이스",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_UejiW_1558338551601/coverImage.png?_=1558602022773",
+    "link": "https://edu.goorm.io/lecture/13306/2019-겜팔이의-노릇노릇-파이어베이스"
+  },
+  {
+    "explain": "생활코딩 - WEB2: Python",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MMkdF_1556973824068/coverImage.png?_=1562121688968",
+    "link": "https://edu.goorm.io/lecture/13091/생활코딩-web2-python"
+  },
+  {
+    "explain": "생활코딩 - WEB3: PHP & MySQL",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Fcvcf_1556951557988/coverImage.png?_=1557897975522",
+    "link": "https://edu.goorm.io/lecture/13086/생활코딩-web3-php-and-mysql"
+  },
+  {
+    "explain": "생활코딩 - WEB2: Node.js - MySQL",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_UAIAU_1556953657994/coverImage.png?_=1557890937365",
+    "link": "https://edu.goorm.io/lecture/13087/생활코딩-web2-node-js-mysql"
+  },
+  {
+    "explain": "생활코딩 - WEB2: Home Server",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Zdtjn_1556973616022/coverImage.png?_=1557890910826",
+    "link": "https://edu.goorm.io/lecture/13090/생활코딩-web2-home-server"
+  },
+  {
+    "explain": "생활코딩 - WEB2: DNS & HTTP",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_pzLcA_1556973048491/coverImage.png?_=1557890921002",
+    "link": "https://edu.goorm.io/lecture/13089/생활코딩-web2-dns-http"
+  },
+  {
+    "explain": "생활코딩 - Source Tree로 Git 활용하기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_GxZAq_1556790792325/coverImage.png?_=1557898192441",
+    "link": "https://edu.goorm.io/lecture/13062/생활코딩-source-tree로-git-활용하기"
+  },
+  {
+    "explain": "생활코딩 - CodeIgniter",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_gBdCf_1556791981742/coverImage.png?_=1557898070003",
+    "link": "https://edu.goorm.io/lecture/13064/생활코딩-codeigniter"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - WEB2: PHP",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PSgCV_1556637284629/coverImage.png?_=1557898218075",
+    "link": "https://edu.goorm.io/lecture/13048/바로실습-생활코딩-web2-php"
+  },
+  {
+    "explain": "생활코딩 - WEB2: OAuth 2.0",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_inpyS_1556636959287/coverImage.png?_=1556938851278",
+    "link": "https://edu.goorm.io/lecture/13047/생활코딩-web2-oauth-2-0"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - WEB2: CSS",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_uDCPh_1556635122616/coverImage.png?_=1557898255086",
+    "link": "https://edu.goorm.io/lecture/13045/바로실습-생활코딩-web2-css"
+  },
+  {
+    "explain": "다시 풀어보는 2019 정보올림피아드 1차 대회 기출문제",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ebuUa_1557131916711/coverImage.png?_=1557147607083",
+    "link": "https://edu.goorm.io/lecture/13095/다시-풀어보는-2019-정보올림피아드-1차-대회-기출문제"
+  },
+  {
+    "explain": "생활코딩 - Atom Editor",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_EjVWM_1556633516917/coverImage.png?_=1556938789743",
+    "link": "https://edu.goorm.io/lecture/13044/생활코딩-atom-editor"
+  },
+  {
+    "explain": "생활코딩 - WEB2: Node.js",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hcUqd_1556637609156/coverImage.png?_=1557898205699",
+    "link": "https://edu.goorm.io/lecture/13049/생활코딩-web2-node-js"
+  },
+  {
+    "explain": "생활코딩 - WEB1: HTML & Internet",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BhlXr_1556260301073/coverImage.png?_=1557898280677",
+    "link": "https://edu.goorm.io/lecture/12959/생활코딩-web1-html-internet"
+  },
+  {
+    "explain": "생활코딩 - WEB2: JavaScript",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bdKYv_1556013025639/coverImage.png?_=1557898300243",
+    "link": "https://edu.goorm.io/lecture/12906/생활코딩-web2-javascript"
+  },
+  {
+    "explain": "Vue.js로 시작하는 SPA 개발",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cRUOx_1556510425234/coverImage.png?_=1556618493236",
+    "link": "https://edu.goorm.io/lecture/13020/vue-js로-시작하는-spa-개발"
+  },
+  {
+    "explain": "생활코딩 - 리액트 (React) ver.2020",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_zxPwa_1556202507108/coverImage.png?_=1556515208151",
+    "link": "https://edu.goorm.io/lecture/12949/생활코딩-리액트-react-ver-2020"
+  },
+  {
+    "explain": "생활코딩 - 리눅스(Linux)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bZRuz_1556283751096/coverImage.png?_=1556515306777",
+    "link": "https://edu.goorm.io/lecture/12984/생활코딩-리눅스-linux"
+  },
+  {
+    "explain": "생활코딩 - 크롬 개발자도구",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dMlQc_1556283363906/coverImage.png?_=1556513711793",
+    "link": "https://edu.goorm.io/lecture/12983/생활코딩-크롬-개발자도구"
+  },
+  {
+    "explain": "생활코딩 - 네트워크 개념 잡기 (도메인, 네임서버, HTTPS)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kNNBh_1556273120577/coverImage.png?_=1556515282922",
+    "link": "https://edu.goorm.io/lecture/12973/생활코딩-네트워크-개념-잡기-도메인-네임서버-https"
+  },
+  {
+    "explain": "생활코딩 - 정규표현식",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bSdMo_1556272045456/coverImage.png?_=1556513733308",
+    "link": "https://edu.goorm.io/lecture/12972/생활코딩-정규표현식"
+  },
+  {
+    "explain": "생활코딩 - 지옥에서 온 Git",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BpoYw_1556201347554/coverImage.png?_=1556253547333",
+    "link": "https://edu.goorm.io/lecture/12948/생활코딩-지옥에서-온-git"
+  },
+  {
+    "explain": "생활코딩 - 아마존 웹 서비스 (AWS)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_itUbM_1556198564614/coverImage.png?_=1556513755734",
+    "link": "https://edu.goorm.io/lecture/12947/생활코딩-아마존-웹-서비스-aws"
+  },
+  {
+    "explain": "[저자 직강 바로 실행] Do it! 웹 프로그래밍을 위한 자바스크립트 기본 편",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lEoZi_1556085094432/coverImage.png?_=1556244669972",
+    "link": "https://edu.goorm.io/lecture/12915/저자-직강-바로-실행-do-it-웹-프로그래밍을-위한-자바스크립트-기본-편"
+  },
+  {
+    "explain": "[저자 직강] Do it! Node.js 프로그래밍",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dAhYb_1554173468595/coverImage.png?_=1554261711057",
+    "link": "https://edu.goorm.io/lecture/12534/저자-직강-do-it-node-js-프로그래밍"
+  },
+  {
+    "explain": "[저자 직강 바로 실행] Do it! 자바스크립트 + 제이쿼리 입문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_jfOhx_1554203818892/coverImage.png?_=1554261746757",
+    "link": "https://edu.goorm.io/lecture/12563/저자-직강-바로-실행-do-it-자바스크립트-제이쿼리-입문"
+  },
+  {
+    "explain": "[저자 직강 바로 실행] Do it! HTML5 + CSS3 웹 표준의 정석",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FILBX_1554208138659/coverImage.png?_=1554261393188",
+    "link": "https://edu.goorm.io/lecture/12565/저자-직강-바로-실행-do-it-html5-css3-웹-표준의-정석"
+  },
+  {
+    "explain": "[저자 직강 바로 실행] Do it! 프런트엔드 웹 디자인 입문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_tOSBF_1554269284050/coverImage.png?_=1554269284377",
+    "link": "https://edu.goorm.io/lecture/12583/저자-직강-바로-실행-do-it-프런트엔드-웹-디자인-입문"
+  },
+  {
+    "explain": "게임으로 배우는 JavaScript",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cEbDE_1553234612869/coverImage.png?_=1553505518066",
+    "link": "https://edu.goorm.io/lecture/12256/게임으로-배우는-javascript"
+  },
+  {
+    "explain": "스크래치 코딩으로 배우는 수학의 개념과 원리",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_lJoGP_1553236703018/coverImage.png?_=1553495908896",
+    "link": "https://edu.goorm.io/lecture/12267/스크래치-코딩으로-배우는-수학의-개념과-원리"
+  },
+  {
+    "explain": "무작정 시작하는 안드로이드 개발",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Odmhb_1553225713946/coverImage.png?_=1553490864920",
+    "link": "https://edu.goorm.io/lecture/12250/무작정-시작하는-안드로이드-개발"
+  },
+  {
+    "explain": "아두이노를 이용한 기상정보 수집과 빅데이터 분석",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ifNZo_1553224739033/coverImage.png?_=1553248169072",
+    "link": "https://edu.goorm.io/lecture/12249/아두이노를-이용한-기상정보-수집과-빅데이터-분석"
+  },
+  {
+    "explain": "React와 Node.js를 활용한 고객 관리 시스템 개발",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_wONqh_1551943937822/coverImage.png?_=1552028422739",
+    "link": "https://edu.goorm.io/lecture/11817/react와-node-js를-활용한-고객-관리-시스템-개발"
+  },
+  {
+    "explain": "Git으로 시작하는 협업 및 오픈소스 프로젝트",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WJerj_1551334179356/coverImage.png?_=1551339186863",
+    "link": "https://edu.goorm.io/lecture/11528/git으로-시작하는-협업-및-오픈소스-프로젝트"
+  },
+  {
+    "explain": "자바로 이해하는 블록체인 이론과 실습",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fasfg_1551332585026/coverImage.png?_=1551332585474",
+    "link": "https://edu.goorm.io/lecture/11527/자바로-이해하는-블록체인-이론과-실습"
+  },
+  {
+    "explain": "모의 해킹으로 배우는 ARP 스푸핑 해킹 기법",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kKnov_1550825183855/coverImage.png?_=1551063335677",
+    "link": "https://edu.goorm.io/lecture/11409/모의-해킹으로-배우는-arp-스푸핑-해킹-기법"
+  },
+  {
+    "explain": "안경잡이개발자가 알려주는 텐서플로우&머신러닝",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_KtMMI_1550822823392/coverImage.png?_=1550827159206",
+    "link": "https://edu.goorm.io/lecture/11408/안경잡이개발자가-알려주는-텐서플로우-머신러닝"
+  },
+  {
+    "explain": "김왼손의 파이썬 예제 뽀개기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ZFige_1550050390743/coverImage.png?_=1550136200632",
+    "link": "https://edu.goorm.io/lecture/11205/김왼손의-파이썬-예제-뽀개기"
+  },
+  {
+    "explain": "[2018 디지털스쿨백팩] SW 아이디어 콘서트 수상작/출품작 갤러리",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IwltB_1544670271988/coverImage.png?_=1547543558341",
+    "link": "https://edu.goorm.io/lecture/10682/2018-디지털스쿨백팩-sw-아이디어-콘서트-수상작-출품작-갤러리"
+  },
+  {
+    "explain": "안경잡이개발자가 알려주는 자바 기초 프로그래밍",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_CceLv_1545114856486/coverImage.png?_=1550827390202",
+    "link": "https://edu.goorm.io/lecture/10727/안경잡이개발자가-알려주는-자바-기초-프로그래밍"
+  },
+  {
+    "explain": "웹 게임을 만들며 배우는 JavaScript(자바스크립트)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fiPAG_1546909547034/coverImage.png?_=1547021573600",
+    "link": "https://edu.goorm.io/lecture/10954/웹-게임을-만들며-배우는-javascript-자바스크립트"
+  },
+  {
+    "explain": "생활코딩 - DATABASE2: lowdb",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DeyEP_1545887896735/coverImage.png?_=1556515256822",
+    "link": "https://edu.goorm.io/lecture/10846/생활코딩-database2-lowdb"
+  },
+  {
+    "explain": "생활코딩 - DATABASE2: MySQL",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kYlMl_1545887614610/coverImage.png?_=1556515243383",
+    "link": "https://edu.goorm.io/lecture/10845/생활코딩-database2-mysql"
+  },
+  {
+    "explain": "[2018 우수활용사례 수상작] 교과서와 함께 배우는 컴퓨팅 사고력",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_eaKOY_1544669954900/coverImage.png?_=1544672061758",
+    "link": "https://edu.goorm.io/lecture/10681/2018-우수활용사례-수상작-교과서와-함께-배우는-컴퓨팅-사고력"
+  },
+  {
+    "explain": "생활코딩 - DATABASE1",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_GaiBT_1545887369643/coverImage.png?_=1556515229110",
+    "link": "https://edu.goorm.io/lecture/10844/생활코딩-database1"
+  },
+  {
+    "explain": "슬기로운 학교생활(코딩편)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_QzXMa_1544669420948/coverImage.png?_=1544672169368",
+    "link": "https://edu.goorm.io/lecture/10672/슬기로운-학교생활-코딩편"
+  },
+  {
+    "explain": "SW로 달리는 미래 자동차 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Lbxca_1544669191616/coverImage.png?_=1547810233275",
+    "link": "https://edu.goorm.io/lecture/10671/sw로-달리는-미래-자동차-만들기"
+  },
+  {
+    "explain": "안경잡이개발자가 알려주는 실전 알고리즘 강좌",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_dIVFE_1545033003436/coverImage.png?_=1550827375907",
+    "link": "https://edu.goorm.io/lecture/10710/안경잡이개발자가-알려주는-실전-알고리즘-강좌"
+  },
+  {
+    "explain": "코딩으로 한. 수. 배우다!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_tfcxA_1544669694055/coverImage.png?_=1544672115496",
+    "link": "https://edu.goorm.io/lecture/10673/코딩으로-한-수-배우다"
+  },
+  {
+    "explain": "안경잡이개발자가 알려주는 C언어 기초 프로그래밍",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_PWere_1545112549935/coverImage.png?_=1550827358252",
+    "link": "https://edu.goorm.io/lecture/10719/안경잡이개발자가-알려주는-c언어-기초-프로그래밍"
+  },
+  {
+    "explain": "[절대강좌! 유니티 2018] Zerodeg과 함께 공부해보기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_Vhdvj_1541497450403/coverImage.png?_=1543561693311",
+    "link": "https://edu.goorm.io/lecture/10107/절대강좌-유니티-2018-zerodeg과-함께-공부해보기"
+  },
+  {
+    "explain": "[스낵코딩] 코딩술사",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ovYFB_1539745972849/coverImage.jpg?_=1539746623280",
+    "link": "https://edu.goorm.io/lecture/6198/스낵코딩-코딩술사"
+  },
+  {
+    "explain": "[스낵코딩] 코딩더테이블",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_HHlap_1539674803133/coverImage.jpg?_=1539674803374",
+    "link": "https://edu.goorm.io/lecture/5999/스낵코딩-코딩더테이블"
+  },
+  {
+    "explain": "한 눈에 끝내는 고랭 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TlLHe_1517365485279/coverImage.gif?_=1586154913684",
+    "link": "https://edu.goorm.io/lecture/2010/한-눈에-끝내는-고랭-기초"
+  },
+  {
+    "explain": "[3D Unity] 생존게임 만들기! - Basic",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aTRFz_1538474461008/coverImage.png?_=1539186134114",
+    "link": "https://edu.goorm.io/lecture/5026/3d-unity-생존게임-만들기-basic"
+  },
+  {
+    "explain": "화이트해커가 되기 위한 8가지 웹 해킹 기술",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_WWvZM_1537351887454/coverImage.png?_=1537508674883",
+    "link": "https://edu.goorm.io/lecture/4953/화이트해커가-되기-위한-8가지-웹-해킹-기술"
+  },
+  {
+    "explain": "머신러닝 이론 및 파이썬 실습",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IJodM_1532081693140/coverImage.png?_=1535725224407",
+    "link": "https://edu.goorm.io/lecture/4012/머신러닝-이론-및-파이썬-실습"
+  },
+  {
+    "explain": "[2017 NIA SW교안 공유 공모전] C언어, 스크래치를 통해 알아보자",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_YruAl_1514275704126/coverImage.png?_=1533639147099",
+    "link": "https://edu.goorm.io/lecture/1647/2017-nia-sw교안-공유-공모전-c언어-스크래치를-통해-알아보자"
+  },
+  {
+    "explain": "Git & GitHub 입문 by 코드스쿼드",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MiAgn_1535552640729/coverImage.png?_=1535601145056",
+    "link": "https://edu.goorm.io/lecture/4661/git-github-입문-by-코드스쿼드"
+  },
+  {
+    "explain": "구름IDE를 이용하여 초고속으로 개인 웹 사이트 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cpMfu_1534918802379/coverImage.png?_=1534936383763",
+    "link": "https://edu.goorm.io/lecture/4543/구름ide를-이용하여-초고속으로-개인-웹-사이트-만들기"
+  },
+  {
+    "explain": "파이콘 2018 영코더 with 바울랩",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aDqDF_1531830899808/coverImage.png?_=1531899048875",
+    "link": "https://edu.goorm.io/lecture/3990/파이콘-2018-영코더-with-바울랩"
+  },
+  {
+    "explain": "스크래치로 생활 속 문제 해결하기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ltdJp_1514275941012/coverImage.png?_=1533633833140",
+    "link": "https://edu.goorm.io/lecture/1648/스크래치로-생활-속-문제-해결하기"
+  },
+  {
+    "explain": "개발자가 알려주는 코딩 인터뷰 정복하기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IOTfd_1532082313542/coverImage.png?_=1533028917388",
+    "link": "https://edu.goorm.io/lecture/4014/개발자가-알려주는-코딩-인터뷰-정복하기"
+  },
+  {
+    "explain": "ELK 스택(ElasticSearch, Logstash, Kibana)으로 데이터 분석",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ltZrk_1532081785613/coverImage.png?_=1533102997228",
+    "link": "https://edu.goorm.io/lecture/4013/elk-스택-elasticsearch-logstash-kibana-으로-데이터-분석"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - WEB3: 익스프레스(Express)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cfEgp_1530669099155/coverImage.png?_=1556515152820",
+    "link": "https://edu.goorm.io/lecture/3846/바로실습-생활코딩-web3-익스프레스-express"
+  },
+  {
+    "explain": "머신러닝/딥러닝 실전 입문",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_cIbch_1533029219475/coverImage.png?_=1616048209288",
+    "link": "https://edu.goorm.io/lecture/4111/머신러닝-딥러닝-실전-입문"
+  },
+  {
+    "explain": "[Pandas] 팬더스 데이터분석 기초 실습",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_IjelG_1532071808885/coverImage.png?_=1533016446394",
+    "link": "https://edu.goorm.io/lecture/3999/pandas-팬더스-데이터분석-기초-실습"
+  },
+  {
+    "explain": "유니티 강좌 [쯔꾸르풍 게임 제작하기]",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_siUQy_1531881966011/coverImage.png?_=1531984227863",
+    "link": "https://edu.goorm.io/lecture/3991/유니티-강좌-쯔꾸르풍-게임-제작하기"
+  },
+  {
+    "explain": "모두를 위한 딥러닝 - Deep Reinforcement Learning",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_fIdGX_1531451585845/coverImage.png?_=1531977061118",
+    "link": "https://edu.goorm.io/lecture/3980/모두를-위한-딥러닝-deep-reinforcement-learning"
+  },
+  {
+    "explain": "MATLAB으로 시작하는 프로그래밍",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_KrePg_1531406455089/coverImage.png?_=1585145679028",
+    "link": "https://edu.goorm.io/lecture/3977/matlab으로-시작하는-프로그래밍"
+  },
+  {
+    "explain": "모두를 위한 딥러닝 - 기본적인 머신러닝과 딥러닝",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_bkiKQ_1531451419290/coverImage.png?_=1531977049465",
+    "link": "https://edu.goorm.io/lecture/3979/모두를-위한-딥러닝-기본적인-머신러닝과-딥러닝"
+  },
+  {
+    "explain": "[ Ruby Coin ] Rails로 쉽고 빠른 웹사이트 만들기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_nxTEl_1515739162682/coverImage.png?_=1532395088874",
+    "link": "https://edu.goorm.io/lecture/1928/ruby-coin-rails로-쉽고-빠른-웹사이트-만들기"
+  },
+  {
+    "explain": "[저자직강] Hello Coding 한입에 쏙 파이썬: 크리에이터 김왼손의 쉽고 빠른 파이썬 강의",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_FvXTy_1530756775346/coverImage.png?_=1530762102608",
+    "link": "https://edu.goorm.io/lecture/3856/저자직강-hello-coding-한입에-쏙-파이썬-크리에이터-김왼손의-쉽고-빠른-파이썬-강의"
+  },
+  {
+    "explain": "정보처리산업기사 기출문제",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_vSkJJ_1529566891226/coverImage.png?_=1529578346596",
+    "link": "https://edu.goorm.io/lecture/3755/정보처리산업기사-기출문제"
+  },
+  {
+    "explain": "다시 풀어보는 2016/2017 정보올림피아드 지역 대회 초등부 기출 문제",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_KiNTc_1529484725174/coverImage.png?_=1529648437569",
+    "link": "https://edu.goorm.io/lecture/3746/다시-풀어보는-2016-2017-정보올림피아드-지역-대회-초등부-기출-문제"
+  },
+  {
+    "explain": "다시 풀어보는 2016/2017 정보올림피아드 지역 대회 중등부 기출 문제",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kykHt_1529484701073/coverImage.png?_=1529648451977",
+    "link": "https://edu.goorm.io/lecture/3745/다시-풀어보는-2016-2017-정보올림피아드-지역-대회-중등부-기출-문제"
+  },
+  {
+    "explain": "다시 풀어보는 2016/2017 정보올림피아드 지역 대회 고등부 기출 문제",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_MKagE_1529484683611/coverImage.png?_=1529648466322",
+    "link": "https://edu.goorm.io/lecture/3744/다시-풀어보는-2016-2017-정보올림피아드-지역-대회-고등부-기출-문제"
+  },
+  {
+    "explain": "IOS Firebase 강의",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_XEJND_1528439625885/coverImage.png?_=1528682465254",
+    "link": "https://edu.goorm.io/lecture/3530/ios-firebase-강의"
+  },
+  {
+    "explain": "안드로이드 Firebase 강의",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_zSAIg_1528437315480/coverImage.png?_=1528682429553",
+    "link": "https://edu.goorm.io/lecture/3528/안드로이드-firebase-강의"
+  },
+  {
+    "explain": "Node.js Firebase - Function",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_scmik_1528682072517/coverImage.png?_=1528704840034",
+    "link": "https://edu.goorm.io/lecture/3570/node-js-firebase-function"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - 자바스크립트(Javascript)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_BaUEo_1519795919393/coverImage.png?_=1556515180271",
+    "link": "https://edu.goorm.io/lecture/2229/바로실습-생활코딩-자바스크립트-javascript"
+  },
+  {
+    "explain": "김왼손의 유기농냠냠파이썬",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_nEHil_1528362688256/coverImage.jpg?_=1528679915233",
+    "link": "https://edu.goorm.io/lecture/3524/김왼손의-유기농냠냠파이썬"
+  },
+  {
+    "explain": "HowlTalk - Android (Firebase)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_mspPP_1528445135187/coverImage.png?_=1528682522043",
+    "link": "https://edu.goorm.io/lecture/3533/howltalk-android-firebase"
+  },
+  {
+    "explain": "HowlTalk - IOS(Firebase)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_nIehd_1528442792542/coverImage.png?_=1528702076953",
+    "link": "https://edu.goorm.io/lecture/3532/howltalk-ios-firebase"
+  },
+  {
+    "explain": "Node.js 서버 개발",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DovID_1528451311062/coverImage.png?_=1528704858473",
+    "link": "https://edu.goorm.io/lecture/3534/node-js-서버-개발"
+  },
+  {
+    "explain": "안드로이드 앱 개발 강의 - 기초편",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_tysVj_1528351538096/coverImage.png?_=1528702244799",
+    "link": "https://edu.goorm.io/lecture/3523/안드로이드-앱-개발-강의-기초편"
+  },
+  {
+    "explain": "Swift3 아이폰 앱 강의-초보",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_sEhzi_1528434642783/coverImage.png?_=1528766813672",
+    "link": "https://edu.goorm.io/lecture/3527/swift3-아이폰-앱-강의-초보"
+  },
+  {
+    "explain": "C 프로그래밍 - 입문에서 게임 개발까지",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_ANHAk_1516638180626/coverImage.png?_=1528752380516",
+    "link": "https://edu.goorm.io/lecture/1972/c-프로그래밍-입문에서-게임-개발까지"
+  },
+  {
+    "explain": "스크래치3 프로그래밍 - 기초부터 게임 만들기까지!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aljFL_1511486205699/coverImage.png?_=1528714484181",
+    "link": "https://edu.goorm.io/lecture/1478/스크래치3-프로그래밍-기초부터-게임-만들기까지"
+  },
+  {
+    "explain": "엔트리 기초부터 활용까지 정글코딩!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_UKziw_1519559717325/coverImage.png?_=1528561666945",
+    "link": "https://edu.goorm.io/lecture/2164/엔트리-기초부터-활용까지-정글코딩"
+  },
+  {
+    "explain": "[PYCON2017 시리즈] 머신러닝을 위한 기초 수학 살펴보기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_DvQXI_1512011741267/coverImage.png?_=1528561044803",
+    "link": "https://edu.goorm.io/lecture/1489/pycon2017-시리즈-머신러닝을-위한-기초-수학-살펴보기"
+  },
+  {
+    "explain": "[PYCON2017 시리즈] 파이썬에서 보다 정확한 숫자 계산하기",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_xbeJQ_1512011689875/coverImage.png?_=1528561069253",
+    "link": "https://edu.goorm.io/lecture/1488/pycon2017-시리즈-파이썬에서-보다-정확한-숫자-계산하기"
+  },
+  {
+    "explain": "[PYCON2017 시리즈] 처음부터 알아보는 웹 크롤러",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_hTzCs_1512011631717/coverImage.png?_=1528561085112",
+    "link": "https://edu.goorm.io/lecture/1487/pycon2017-시리즈-처음부터-알아보는-웹-크롤러"
+  },
+  {
+    "explain": "실리콘밸리의 개발자",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_czsfT_1512012409555/coverImage.png?_=1528561021609",
+    "link": "https://edu.goorm.io/lecture/1490/실리콘밸리의-개발자"
+  },
+  {
+    "explain": "김왼손의 미운코딩새끼: 4시간만에 끝내는 파이썬 기초",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_TejEa_1510754837950/coverImage.png?_=1528561614512",
+    "link": "https://edu.goorm.io/lecture/1461/김왼손의-미운코딩새끼-4시간만에-끝내는-파이썬-기초"
+  },
+  {
+    "explain": "엔트리 프로그래밍 - 기초부터 게임 만들기까지!",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_kBSxL_1508927656641/coverImage.png?_=1528560877891",
+    "link": "https://edu.goorm.io/lecture/1361/엔트리-프로그래밍-기초부터-게임-만들기까지"
+  },
+  {
+    "explain": "야곰의 스위프트 프로그래밍",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_aVklX_1505195317917/coverImage.png?_=1528561641088",
+    "link": "https://edu.goorm.io/lecture/1141/야곰의-스위프트-프로그래밍"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - 자바(JAVA)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_XcBke_1463649761052/coverImage.png?_=1556515167190",
+    "link": "https://edu.goorm.io/lecture/41/바로실습-생활코딩-자바-java"
+  },
+  {
+    "explain": "TODO 앱을 직접 만들면서 배우는 node.js / express / bootstrap / jquery",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_zNfhk_1473322293382/coverImage.png?_=1528561538570",
+    "link": "https://edu.goorm.io/lecture/332/todo-앱을-직접-만들면서-배우는-node-js-express-bootstrap-jquery"
+  },
+  {
+    "explain": "제1회 구름코드챌린지(GCC) 기출 문제",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_gfpKh_1500536971533/coverImage.png?_=1528561262315",
+    "link": "https://edu.goorm.io/lecture/790/제1회-구름코드챌린지-gcc-기출-문제"
+  },
+  {
+    "explain": "[바로실습] 생활코딩 - 파이썬(Python)",
+    "image": "https://grm-project-template-bucket.s3.ap-northeast-2.amazonaws.com/lecture/lec_JeCgg_1463725730881/coverImage.png?_=1556515190507",
+    "link": "https://edu.goorm.io/lecture/44/바로실습-생활코딩-파이썬-python"
+  }
+]
