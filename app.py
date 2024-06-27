@@ -9,6 +9,8 @@ import json
 import jwt
 import sqlite3
 import random
+import requests
+from openai import OpenAI
 import os
 app = Flask(__name__)
 CORS(app)
@@ -25,7 +27,29 @@ app.config['MAIL_USE_SSL'] = True
 
 
 mail = Mail(app)
+OPENAI_API_KEY = 'sk-proj-ZGOT6kfM2nGIvshObOfVT3BlbkFJN2Jf0BZ3EKx5hn3ttLmA'
+client = OpenAI(api_key=OPENAI_API_KEY)
 
+
+@app.route('/chat', methods=['GET'])
+def chat():
+    prompt = request.args.get('prompt')
+
+    if not prompt:
+        return jsonify({"error": "No prompt provided"}), 400
+
+    try:
+        chat_completion = client.chat.completions.create(
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
+            model="gpt-3.5-turbo",
+        )
+
+        return jsonify({"response": chat_completion.choices[0].message.content})
+    except Exception as e:
+        print(f"Error: {e}")
+        return jsonify({"error": "Internal Server Error", "details": str(e)}), 500
 
 def parseJWT(jwtstr):
     print(jwtstr)
@@ -41,6 +65,7 @@ def parseJWT(jwtstr):
             "result" : "error",
             "ErrType" : "InValidToken"
         }
+
 @app.route('/add', methods=["POST"])
 def registMember():
     username = request.form.get('username')
